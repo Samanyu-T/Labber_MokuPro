@@ -1,0 +1,1443 @@
+["waveformgenerator", "oscilloscope", "oscilloscope", "waveformgenerator"]Start 
+["waveformgenerator", "oscilloscope", "oscilloscope", "waveformgenerator"]Start 
+Set 
+Instrument - Slot1["waveformgenerator", "oscilloscope", "oscilloscope", "waveformgenerator"]Set 
+Set 
+LIA Output - Main - 1["waveformgenerator", "oscilloscope", "oscilloscope", "waveformgenerator"]Set 
+Set 
+LIA Output - Aux - 1["waveformgenerator", "oscilloscope", "oscilloscope", "waveformgenerator"]Set 
+Set 
+LIA Output - Main Offset - 1["waveformgenerator", "oscilloscope", "oscilloscope", "waveformgenerator"]Set 
+Set 
+LIA Output - Aux Offset - 1["waveformgenerator", "oscilloscope", "oscilloscope", "waveformgenerator"]Set 
+Set 
+LIA Aux Frequency - 1["waveformgenerator", "oscilloscope", "oscilloscope", "waveformgenerator"]Set 
+Set 
+LIA Aux Amplitude - 1["waveformgenerator", "oscilloscope", "oscilloscope", "waveformgenerator"]Set 
+Set 
+LIA LPF Cutoff Freq - 1["waveformgenerator", "oscilloscope", "oscilloscope", "waveformgenerator"]Set 
+Set 
+LIA LPF Slope - 1["waveformgenerator", "oscilloscope", "oscilloscope", "waveformgenerator"]Set 
+Set 
+FRA Sweep Start Freq - 1["waveformgenerator", "oscilloscope", "oscilloscope", "waveformgenerator"]Set 
+Set 
+FRA Sweep End Freq - 1["waveformgenerator", "oscilloscope", "oscilloscope", "waveformgenerator"]Set 
+Set 
+FRA Sweep Num-Points - 1["waveformgenerator", "oscilloscope", "oscilloscope", "waveformgenerator"]Set 
+Set 
+FRA Sweep Averaging-Time - 1["waveformgenerator", "oscilloscope", "oscilloscope", "waveformgenerator"]Set 
+Set 
+FRA Sweep Averaging-Cycles - 1["waveformgenerator", "oscilloscope", "oscilloscope", "waveformgenerator"]Set 
+Set 
+FRA Sweep Settling-Time - 1["waveformgenerator", "oscilloscope", "oscilloscope", "waveformgenerator"]Set 
+Set 
+FRA Sweep Settling-Cycles - 1["waveformgenerator", "oscilloscope", "oscilloscope", "waveformgenerator"]Set 
+Set 
+FRA Sweep Linear - 1["waveformgenerator", "oscilloscope", "oscilloscope", "waveformgenerator"]Set 
+Set 
+FRA Output Amplitude - 1["waveformgenerator", "oscilloscope", "oscilloscope", "waveformgenerator"]Set 
+Set 
+FRA Output Offset - 1["waveformgenerator", "oscilloscope", "oscilloscope", "waveformgenerator"]Set 
+Set 
+FRA Output Phase - 1["waveformgenerator", "oscilloscope", "oscilloscope", "waveformgenerator"]Set 
+Set 
+FRA Harmonic Multiplier - 1["waveformgenerator", "oscilloscope", "oscilloscope", "waveformgenerator"]Set 
+Set 
+FRA Measurement Mode - 1["waveformgenerator", "oscilloscope", "oscilloscope", "waveformgenerator"]Set 
+Set 
+SPA Freq Lower Bound - 1["waveformgenerator", "oscilloscope", "oscilloscope", "waveformgenerator"]Set 
+Set 
+SPA Freq Upper Bound - 1["waveformgenerator", "oscilloscope", "oscilloscope", "waveformgenerator"]Set 
+Set 
+SPA Resolution Mode - 1["waveformgenerator", "oscilloscope", "oscilloscope", "waveformgenerator"]Set 
+Set 
+SPA Resolution Bandwidth - 1["waveformgenerator", "oscilloscope", "oscilloscope", "waveformgenerator"]Set 
+Set 
+SPA Window Function - 1["waveformgenerator", "oscilloscope", "oscilloscope", "waveformgenerator"]Set 
+Set 
+OSC TimeSpan - 1["waveformgenerator", "oscilloscope", "oscilloscope", "waveformgenerator"]Set 
+Set 
+WVG Ch1 Function - 1["waveformgenerator", "oscilloscope", "oscilloscope", "waveformgenerator"]Set 
+Set 
+WVG Ch1 Frequency - 1["waveformgenerator", "oscilloscope", "oscilloscope", "waveformgenerator"]Set 
+Set 
+WVG Ch1 Amplitude - 1["waveformgenerator", "oscilloscope", "oscilloscope", "waveformgenerator"]Set 
+Set 
+WVG Ch1 DC Offset - 1["waveformgenerator", "oscilloscope", "oscilloscope", "waveformgenerator"]Set 
+Set 
+WVG Ch1 DC Level - 1["waveformgenerator", "oscilloscope", "oscilloscope", "waveformgenerator"]Set 
+Set 
+WVG Ch1 Phase - 1["waveformgenerator", "oscilloscope", "oscilloscope", "waveformgenerator"]Set 
+Set 
+WVG Ch1 Ramp Symmetry - 1["waveformgenerator", "oscilloscope", "oscilloscope", "waveformgenerator"]Set 
+Set 
+WVG Ch1 Duty Cycle - 1["waveformgenerator", "oscilloscope", "oscilloscope", "waveformgenerator"]Set 
+Set 
+WVG Ch1 Pulse Width - 1["waveformgenerator", "oscilloscope", "oscilloscope", "waveformgenerator"]Set 
+Set 
+WVG Ch1 Edge Time - 1["waveformgenerator", "oscilloscope", "oscilloscope", "waveformgenerator"]Set 
+Set 
+WVG Ch1 Modulation - 1["waveformgenerator", "oscilloscope", "oscilloscope", "waveformgenerator"]Set 
+Set 
+WVG Ch1 Trigger Source - 1["waveformgenerator", "oscilloscope", "oscilloscope", "waveformgenerator"]Set 
+Set 
+WVG Ch1 Mod Type - 1["waveformgenerator", "oscilloscope", "oscilloscope", "waveformgenerator"]Set 
+Set 
+WVG Ch1 Mod Freq - 1["waveformgenerator", "oscilloscope", "oscilloscope", "waveformgenerator"]Set 
+Set 
+WVG Ch1 AM Depth - 1["waveformgenerator", "oscilloscope", "oscilloscope", "waveformgenerator"]Set 
+Set 
+WVG Ch1 FM Depth - 1["waveformgenerator", "oscilloscope", "oscilloscope", "waveformgenerator"]Set 
+Set 
+WVG Ch1 PM Depth - 1["waveformgenerator", "oscilloscope", "oscilloscope", "waveformgenerator"]Set 
+Set 
+WVG Ch2 Function - 1["waveformgenerator", "oscilloscope", "oscilloscope", "waveformgenerator"]Set 
+Set 
+WVG Ch2 Frequency - 1["waveformgenerator", "oscilloscope", "oscilloscope", "waveformgenerator"]Set 
+Set 
+WVG Ch2 Amplitude - 1["waveformgenerator", "oscilloscope", "oscilloscope", "waveformgenerator"]Set 
+Set 
+WVG Ch2 DC Offset - 1["waveformgenerator", "oscilloscope", "oscilloscope", "waveformgenerator"]Set 
+Set 
+WVG Ch2 DC Level - 1["waveformgenerator", "oscilloscope", "oscilloscope", "waveformgenerator"]Set 
+Set 
+WVG Ch2 Phase - 1["waveformgenerator", "oscilloscope", "oscilloscope", "waveformgenerator"]Set 
+Set 
+WVG Ch2 Ramp Symmetry - 1["waveformgenerator", "oscilloscope", "oscilloscope", "waveformgenerator"]Set 
+Set 
+WVG Ch2 Duty Cycle - 1["waveformgenerator", "oscilloscope", "oscilloscope", "waveformgenerator"]Set 
+Set 
+WVG Ch2 Pulse Width - 1["waveformgenerator", "oscilloscope", "oscilloscope", "waveformgenerator"]Set 
+Set 
+WVG Ch2 Edge Time - 1["waveformgenerator", "oscilloscope", "oscilloscope", "waveformgenerator"]Set 
+Set 
+WVG Ch2 Modulation - 1["waveformgenerator", "oscilloscope", "oscilloscope", "waveformgenerator"]Set 
+Set 
+WVG Ch2 Trigger Source - 1["waveformgenerator", "oscilloscope", "oscilloscope", "waveformgenerator"]Set 
+Set 
+WVG Ch2 Mod Type - 1["waveformgenerator", "oscilloscope", "oscilloscope", "waveformgenerator"]Set 
+Set 
+WVG Ch2 Mod Freq - 1["waveformgenerator", "oscilloscope", "oscilloscope", "waveformgenerator"]Set 
+Set 
+WVG Ch2 AM Depth - 1["waveformgenerator", "oscilloscope", "oscilloscope", "waveformgenerator"]Set 
+Set 
+WVG Ch2 FM Depth - 1["waveformgenerator", "oscilloscope", "oscilloscope", "waveformgenerator"]Set 
+Set 
+WVG Ch2 PM Depth - 1["waveformgenerator", "oscilloscope", "oscilloscope", "waveformgenerator"]Set 
+Set 
+AWG Ch1 Premade File? - 1["waveformgenerator", "oscilloscope", "oscilloscope", "waveformgenerator"]Set 
+Set 
+AWG Ch1 Range of x - 1["waveformgenerator", "oscilloscope", "oscilloscope", "waveformgenerator"]Set 
+Set 
+AWG Ch1 f(x) in Python - 1["waveformgenerator", "oscilloscope", "oscilloscope", "waveformgenerator"]Set 
+Set 
+AWG Ch1 Filename - 1["waveformgenerator", "oscilloscope", "oscilloscope", "waveformgenerator"]Set 
+Set 
+AWG Ch1 Frequency - 1["waveformgenerator", "oscilloscope", "oscilloscope", "waveformgenerator"]Set 
+Set 
+AWG Ch1 Amplitude - 1["waveformgenerator", "oscilloscope", "oscilloscope", "waveformgenerator"]Set 
+Set 
+AWG Ch1 Sample Rate - 1["waveformgenerator", "oscilloscope", "oscilloscope", "waveformgenerator"]Set 
+Set 
+AWG Ch1 Output Load - 1["waveformgenerator", "oscilloscope", "oscilloscope", "waveformgenerator"]Set 
+Set 
+AWG Ch1 Modulate - 1["waveformgenerator", "oscilloscope", "oscilloscope", "waveformgenerator"]Set 
+Set 
+AWG Ch1 Trigger Source - 1["waveformgenerator", "oscilloscope", "oscilloscope", "waveformgenerator"]Set 
+Set 
+AWG Ch1 Trigger Mode - 1["waveformgenerator", "oscilloscope", "oscilloscope", "waveformgenerator"]Set 
+Set 
+AWG Ch1 Trigger Level - 1["waveformgenerator", "oscilloscope", "oscilloscope", "waveformgenerator"]Set 
+Set 
+AWG Ch1 Input Range - 1["waveformgenerator", "oscilloscope", "oscilloscope", "waveformgenerator"]Set 
+Set 
+AWG Ch1 Burst Cycles - 1["waveformgenerator", "oscilloscope", "oscilloscope", "waveformgenerator"]Set 
+Set 
+AWG Ch1 Dead Cycles - 1["waveformgenerator", "oscilloscope", "oscilloscope", "waveformgenerator"]Set 
+Set 
+AWG Ch1 Dead Voltage - 1["waveformgenerator", "oscilloscope", "oscilloscope", "waveformgenerator"]Set 
+Set 
+AWG Ch2 Premade File? - 1["waveformgenerator", "oscilloscope", "oscilloscope", "waveformgenerator"]Set 
+Set 
+AWG Ch2 Range of x - 1["waveformgenerator", "oscilloscope", "oscilloscope", "waveformgenerator"]Set 
+Set 
+AWG Ch2 f(x) in Python - 1["waveformgenerator", "oscilloscope", "oscilloscope", "waveformgenerator"]Set 
+Set 
+AWG Ch2 Filename - 1["waveformgenerator", "oscilloscope", "oscilloscope", "waveformgenerator"]Set 
+Set 
+AWG Ch2 Frequency - 1["waveformgenerator", "oscilloscope", "oscilloscope", "waveformgenerator"]Set 
+Set 
+AWG Ch2 Amplitude - 1["waveformgenerator", "oscilloscope", "oscilloscope", "waveformgenerator"]Set 
+Set 
+AWG Ch2 Sample Rate - 1["waveformgenerator", "oscilloscope", "oscilloscope", "waveformgenerator"]Set 
+Set 
+AWG Ch2 Output Load - 1["waveformgenerator", "oscilloscope", "oscilloscope", "waveformgenerator"]Set 
+Set 
+AWG Ch2 Modulate - 1["waveformgenerator", "oscilloscope", "oscilloscope", "waveformgenerator"]Set 
+Set 
+AWG Ch2 Trigger Source - 1["waveformgenerator", "oscilloscope", "oscilloscope", "waveformgenerator"]Set 
+Set 
+AWG Ch2 Trigger Mode - 1["waveformgenerator", "oscilloscope", "oscilloscope", "waveformgenerator"]Set 
+Set 
+AWG Ch2 Trigger Level - 1["waveformgenerator", "oscilloscope", "oscilloscope", "waveformgenerator"]Set 
+Set 
+AWG Ch2 Input Range - 1["waveformgenerator", "oscilloscope", "oscilloscope", "waveformgenerator"]Set 
+Set 
+AWG Ch2 Burst Cycles - 1["waveformgenerator", "oscilloscope", "oscilloscope", "waveformgenerator"]Set 
+Set 
+AWG Ch2 Dead Cycles - 1["waveformgenerator", "oscilloscope", "oscilloscope", "waveformgenerator"]Set 
+Set 
+AWG Ch2 Dead Voltage - 1["waveformgenerator", "oscilloscope", "oscilloscope", "waveformgenerator"]Set 
+Set 
+Instrument - Slot2["waveformgenerator", "oscilloscope", "oscilloscope", "waveformgenerator"]Set 
+Set 
+LIA Output - Main - 2["waveformgenerator", "oscilloscope", "oscilloscope", "waveformgenerator"]Set 
+Set 
+LIA Output - Aux - 2["waveformgenerator", "oscilloscope", "oscilloscope", "waveformgenerator"]Set 
+Set 
+LIA Output - Main Offset - 2["waveformgenerator", "oscilloscope", "oscilloscope", "waveformgenerator"]Set 
+Set 
+LIA Output - Aux Offset - 2["waveformgenerator", "oscilloscope", "oscilloscope", "waveformgenerator"]Set 
+Set 
+LIA Aux Frequency - 2["waveformgenerator", "oscilloscope", "oscilloscope", "waveformgenerator"]Set 
+Set 
+LIA Aux Amplitude - 2["waveformgenerator", "oscilloscope", "oscilloscope", "waveformgenerator"]Set 
+Set 
+LIA LPF Cutoff Freq - 2["waveformgenerator", "oscilloscope", "oscilloscope", "waveformgenerator"]Set 
+Set 
+LIA LPF Slope - 2["waveformgenerator", "oscilloscope", "oscilloscope", "waveformgenerator"]Set 
+Set 
+FRA Sweep Start Freq - 2["waveformgenerator", "oscilloscope", "oscilloscope", "waveformgenerator"]Set 
+Set 
+FRA Sweep End Freq - 2["waveformgenerator", "oscilloscope", "oscilloscope", "waveformgenerator"]Set 
+Set 
+FRA Sweep Num-Points - 2["waveformgenerator", "oscilloscope", "oscilloscope", "waveformgenerator"]Set 
+Set 
+FRA Sweep Averaging-Time - 2["waveformgenerator", "oscilloscope", "oscilloscope", "waveformgenerator"]Set 
+Set 
+FRA Sweep Averaging-Cycles - 2["waveformgenerator", "oscilloscope", "oscilloscope", "waveformgenerator"]Set 
+Set 
+FRA Sweep Settling-Time - 2["waveformgenerator", "oscilloscope", "oscilloscope", "waveformgenerator"]Set 
+Set 
+FRA Sweep Settling-Cycles - 2["waveformgenerator", "oscilloscope", "oscilloscope", "waveformgenerator"]Set 
+Set 
+FRA Sweep Linear - 2["waveformgenerator", "oscilloscope", "oscilloscope", "waveformgenerator"]Set 
+Set 
+FRA Output Amplitude - 2["waveformgenerator", "oscilloscope", "oscilloscope", "waveformgenerator"]Set 
+Set 
+FRA Output Offset - 2["waveformgenerator", "oscilloscope", "oscilloscope", "waveformgenerator"]Set 
+Set 
+FRA Output Phase - 2["waveformgenerator", "oscilloscope", "oscilloscope", "waveformgenerator"]Set 
+Set 
+FRA Harmonic Multiplier - 2["waveformgenerator", "oscilloscope", "oscilloscope", "waveformgenerator"]Set 
+Set 
+FRA Measurement Mode - 2["waveformgenerator", "oscilloscope", "oscilloscope", "waveformgenerator"]Set 
+Set 
+SPA Freq Lower Bound - 2["waveformgenerator", "oscilloscope", "oscilloscope", "waveformgenerator"]Set 
+Set 
+SPA Freq Upper Bound - 2["waveformgenerator", "oscilloscope", "oscilloscope", "waveformgenerator"]Set 
+Set 
+SPA Resolution Mode - 2["waveformgenerator", "oscilloscope", "oscilloscope", "waveformgenerator"]Set 
+Set 
+SPA Resolution Bandwidth - 2["waveformgenerator", "oscilloscope", "oscilloscope", "waveformgenerator"]Set 
+Set 
+SPA Window Function - 2["waveformgenerator", "oscilloscope", "oscilloscope", "waveformgenerator"]Set 
+Set 
+OSC TimeSpan - 2["waveformgenerator", "oscilloscope", "oscilloscope", "waveformgenerator"]Set 
+Set 
+WVG Ch1 Function - 2["waveformgenerator", "oscilloscope", "oscilloscope", "waveformgenerator"]Set 
+Set 
+WVG Ch1 Frequency - 2["waveformgenerator", "oscilloscope", "oscilloscope", "waveformgenerator"]Set 
+Set 
+WVG Ch1 Amplitude - 2["waveformgenerator", "oscilloscope", "oscilloscope", "waveformgenerator"]Set 
+Set 
+WVG Ch1 DC Offset - 2["waveformgenerator", "oscilloscope", "oscilloscope", "waveformgenerator"]Set 
+Set 
+WVG Ch1 DC Level - 2["waveformgenerator", "oscilloscope", "oscilloscope", "waveformgenerator"]Set 
+Set 
+WVG Ch1 Phase - 2["waveformgenerator", "oscilloscope", "oscilloscope", "waveformgenerator"]Set 
+Set 
+WVG Ch1 Ramp Symmetry - 2["waveformgenerator", "oscilloscope", "oscilloscope", "waveformgenerator"]Set 
+Set 
+WVG Ch1 Duty Cycle - 2["waveformgenerator", "oscilloscope", "oscilloscope", "waveformgenerator"]Set 
+Set 
+WVG Ch1 Pulse Width - 2["waveformgenerator", "oscilloscope", "oscilloscope", "waveformgenerator"]Set 
+Set 
+WVG Ch1 Edge Time - 2["waveformgenerator", "oscilloscope", "oscilloscope", "waveformgenerator"]Set 
+Set 
+WVG Ch1 Modulation - 2["waveformgenerator", "oscilloscope", "oscilloscope", "waveformgenerator"]Set 
+Set 
+WVG Ch1 Trigger Source - 2["waveformgenerator", "oscilloscope", "oscilloscope", "waveformgenerator"]Set 
+Set 
+WVG Ch1 Mod Type - 2["waveformgenerator", "oscilloscope", "oscilloscope", "waveformgenerator"]Set 
+Set 
+WVG Ch1 Mod Freq - 2["waveformgenerator", "oscilloscope", "oscilloscope", "waveformgenerator"]Set 
+Set 
+WVG Ch1 AM Depth - 2["waveformgenerator", "oscilloscope", "oscilloscope", "waveformgenerator"]Set 
+Set 
+WVG Ch1 FM Depth - 2["waveformgenerator", "oscilloscope", "oscilloscope", "waveformgenerator"]Set 
+Set 
+WVG Ch1 PM Depth - 2["waveformgenerator", "oscilloscope", "oscilloscope", "waveformgenerator"]Set 
+Set 
+WVG Ch2 Function - 2["waveformgenerator", "oscilloscope", "oscilloscope", "waveformgenerator"]Set 
+Set 
+WVG Ch2 Frequency - 2["waveformgenerator", "oscilloscope", "oscilloscope", "waveformgenerator"]Set 
+Set 
+WVG Ch2 Amplitude - 2["waveformgenerator", "oscilloscope", "oscilloscope", "waveformgenerator"]Set 
+Set 
+WVG Ch2 DC Offset - 2["waveformgenerator", "oscilloscope", "oscilloscope", "waveformgenerator"]Set 
+Set 
+WVG Ch2 DC Level - 2["waveformgenerator", "oscilloscope", "oscilloscope", "waveformgenerator"]Set 
+Set 
+WVG Ch2 Phase - 2["waveformgenerator", "oscilloscope", "oscilloscope", "waveformgenerator"]Set 
+Set 
+WVG Ch2 Ramp Symmetry - 2["waveformgenerator", "oscilloscope", "oscilloscope", "waveformgenerator"]Set 
+Set 
+WVG Ch2 Duty Cycle - 2["waveformgenerator", "oscilloscope", "oscilloscope", "waveformgenerator"]Set 
+Set 
+WVG Ch2 Pulse Width - 2["waveformgenerator", "oscilloscope", "oscilloscope", "waveformgenerator"]Set 
+Set 
+WVG Ch2 Edge Time - 2["waveformgenerator", "oscilloscope", "oscilloscope", "waveformgenerator"]Set 
+Set 
+WVG Ch2 Modulation - 2["waveformgenerator", "oscilloscope", "oscilloscope", "waveformgenerator"]Set 
+Set 
+WVG Ch2 Trigger Source - 2["waveformgenerator", "oscilloscope", "oscilloscope", "waveformgenerator"]Set 
+Set 
+WVG Ch2 Mod Type - 2["waveformgenerator", "oscilloscope", "oscilloscope", "waveformgenerator"]Set 
+Set 
+WVG Ch2 Mod Freq - 2["waveformgenerator", "oscilloscope", "oscilloscope", "waveformgenerator"]Set 
+Set 
+WVG Ch2 AM Depth - 2["waveformgenerator", "oscilloscope", "oscilloscope", "waveformgenerator"]Set 
+Set 
+WVG Ch2 FM Depth - 2["waveformgenerator", "oscilloscope", "oscilloscope", "waveformgenerator"]Set 
+Set 
+WVG Ch2 PM Depth - 2["waveformgenerator", "oscilloscope", "oscilloscope", "waveformgenerator"]Set 
+Set 
+AWG Ch1 Premade File? - 2["waveformgenerator", "oscilloscope", "oscilloscope", "waveformgenerator"]Set 
+Set 
+AWG Ch1 Range of x - 2["waveformgenerator", "oscilloscope", "oscilloscope", "waveformgenerator"]Set 
+Set 
+AWG Ch1 f(x) in Python - 2["waveformgenerator", "oscilloscope", "oscilloscope", "waveformgenerator"]Set 
+Set 
+AWG Ch1 Filename - 2["waveformgenerator", "oscilloscope", "oscilloscope", "waveformgenerator"]Set 
+Set 
+AWG Ch1 Frequency - 2["waveformgenerator", "oscilloscope", "oscilloscope", "waveformgenerator"]Set 
+Set 
+AWG Ch1 Amplitude - 2["waveformgenerator", "oscilloscope", "oscilloscope", "waveformgenerator"]Set 
+Set 
+AWG Ch1 Sample Rate - 2["waveformgenerator", "oscilloscope", "oscilloscope", "waveformgenerator"]Set 
+Set 
+AWG Ch1 Output Load - 2["waveformgenerator", "oscilloscope", "oscilloscope", "waveformgenerator"]Set 
+Set 
+AWG Ch1 Modulate - 2["waveformgenerator", "oscilloscope", "oscilloscope", "waveformgenerator"]Set 
+Set 
+AWG Ch1 Trigger Source - 2["waveformgenerator", "oscilloscope", "oscilloscope", "waveformgenerator"]Set 
+Set 
+AWG Ch1 Trigger Mode - 2["waveformgenerator", "oscilloscope", "oscilloscope", "waveformgenerator"]Set 
+Set 
+AWG Ch1 Trigger Level - 2["waveformgenerator", "oscilloscope", "oscilloscope", "waveformgenerator"]Set 
+Set 
+AWG Ch1 Input Range - 2["waveformgenerator", "oscilloscope", "oscilloscope", "waveformgenerator"]Set 
+Set 
+AWG Ch1 Burst Cycles - 2["waveformgenerator", "oscilloscope", "oscilloscope", "waveformgenerator"]Set 
+Set 
+AWG Ch1 Dead Cycles - 2["waveformgenerator", "oscilloscope", "oscilloscope", "waveformgenerator"]Set 
+Set 
+AWG Ch1 Dead Voltage - 2["waveformgenerator", "oscilloscope", "oscilloscope", "waveformgenerator"]Set 
+Set 
+AWG Ch2 Premade File? - 2["waveformgenerator", "oscilloscope", "oscilloscope", "waveformgenerator"]Set 
+Set 
+AWG Ch2 Range of x - 2["waveformgenerator", "oscilloscope", "oscilloscope", "waveformgenerator"]Set 
+Set 
+AWG Ch2 f(x) in Python - 2["waveformgenerator", "oscilloscope", "oscilloscope", "waveformgenerator"]Set 
+Set 
+AWG Ch2 Filename - 2["waveformgenerator", "oscilloscope", "oscilloscope", "waveformgenerator"]Set 
+Set 
+AWG Ch2 Frequency - 2["waveformgenerator", "oscilloscope", "oscilloscope", "waveformgenerator"]Set 
+Set 
+AWG Ch2 Amplitude - 2["waveformgenerator", "oscilloscope", "oscilloscope", "waveformgenerator"]Set 
+Set 
+AWG Ch2 Sample Rate - 2["waveformgenerator", "oscilloscope", "oscilloscope", "waveformgenerator"]Set 
+Set 
+AWG Ch2 Output Load - 2["waveformgenerator", "oscilloscope", "oscilloscope", "waveformgenerator"]Set 
+Set 
+AWG Ch2 Modulate - 2["waveformgenerator", "oscilloscope", "oscilloscope", "waveformgenerator"]Set 
+Set 
+AWG Ch2 Trigger Source - 2["waveformgenerator", "oscilloscope", "oscilloscope", "waveformgenerator"]Set 
+Set 
+AWG Ch2 Trigger Mode - 2["waveformgenerator", "oscilloscope", "oscilloscope", "waveformgenerator"]Set 
+Set 
+AWG Ch2 Trigger Level - 2["waveformgenerator", "oscilloscope", "oscilloscope", "waveformgenerator"]Set 
+Set 
+AWG Ch2 Input Range - 2["waveformgenerator", "oscilloscope", "oscilloscope", "waveformgenerator"]Set 
+Set 
+AWG Ch2 Burst Cycles - 2["waveformgenerator", "oscilloscope", "oscilloscope", "waveformgenerator"]Set 
+Set 
+AWG Ch2 Dead Cycles - 2["waveformgenerator", "oscilloscope", "oscilloscope", "waveformgenerator"]Set 
+Set 
+AWG Ch2 Dead Voltage - 2["waveformgenerator", "oscilloscope", "oscilloscope", "waveformgenerator"]Set 
+Set 
+Instrument - Slot3["waveformgenerator", "oscilloscope", "oscilloscope", "waveformgenerator"]Set 
+Set 
+LIA Output - Main - 3["waveformgenerator", "oscilloscope", "oscilloscope", "waveformgenerator"]Set 
+Set 
+LIA Output - Aux - 3["waveformgenerator", "oscilloscope", "oscilloscope", "waveformgenerator"]Set 
+Set 
+LIA Output - Main Offset - 3["waveformgenerator", "oscilloscope", "oscilloscope", "waveformgenerator"]Set 
+Set 
+LIA Output - Aux Offset - 3["waveformgenerator", "oscilloscope", "oscilloscope", "waveformgenerator"]Set 
+Set 
+LIA Aux Frequency - 3["waveformgenerator", "oscilloscope", "oscilloscope", "waveformgenerator"]Set 
+Set 
+LIA Aux Amplitude - 3["waveformgenerator", "oscilloscope", "oscilloscope", "waveformgenerator"]Set 
+Set 
+LIA LPF Cutoff Freq - 3["waveformgenerator", "oscilloscope", "oscilloscope", "waveformgenerator"]Set 
+Set 
+LIA LPF Slope - 3["waveformgenerator", "oscilloscope", "oscilloscope", "waveformgenerator"]Set 
+Set 
+FRA Sweep Start Freq - 3["waveformgenerator", "oscilloscope", "oscilloscope", "waveformgenerator"]Set 
+Set 
+FRA Sweep End Freq - 3["waveformgenerator", "oscilloscope", "oscilloscope", "waveformgenerator"]Set 
+Set 
+FRA Sweep Num-Points - 3["waveformgenerator", "oscilloscope", "oscilloscope", "waveformgenerator"]Set 
+Set 
+FRA Sweep Averaging-Time - 3["waveformgenerator", "oscilloscope", "oscilloscope", "waveformgenerator"]Set 
+Set 
+FRA Sweep Averaging-Cycles - 3["waveformgenerator", "oscilloscope", "oscilloscope", "waveformgenerator"]Set 
+Set 
+FRA Sweep Settling-Time - 3["waveformgenerator", "oscilloscope", "oscilloscope", "waveformgenerator"]Set 
+Set 
+FRA Sweep Settling-Cycles - 3["waveformgenerator", "oscilloscope", "oscilloscope", "waveformgenerator"]Set 
+Set 
+FRA Sweep Linear - 3["waveformgenerator", "oscilloscope", "oscilloscope", "waveformgenerator"]Set 
+Set 
+FRA Output Amplitude - 3["waveformgenerator", "oscilloscope", "oscilloscope", "waveformgenerator"]Set 
+Set 
+FRA Output Offset - 3["waveformgenerator", "oscilloscope", "oscilloscope", "waveformgenerator"]Set 
+Set 
+FRA Output Phase - 3["waveformgenerator", "oscilloscope", "oscilloscope", "waveformgenerator"]Set 
+Set 
+FRA Harmonic Multiplier - 3["waveformgenerator", "oscilloscope", "oscilloscope", "waveformgenerator"]Set 
+Set 
+FRA Measurement Mode - 3["waveformgenerator", "oscilloscope", "oscilloscope", "waveformgenerator"]Set 
+Set 
+SPA Freq Lower Bound - 3["waveformgenerator", "oscilloscope", "oscilloscope", "waveformgenerator"]Set 
+Set 
+SPA Freq Upper Bound - 3["waveformgenerator", "oscilloscope", "oscilloscope", "waveformgenerator"]Set 
+Set 
+SPA Resolution Mode - 3["waveformgenerator", "oscilloscope", "oscilloscope", "waveformgenerator"]Set 
+Set 
+SPA Resolution Bandwidth - 3["waveformgenerator", "oscilloscope", "oscilloscope", "waveformgenerator"]Set 
+Set 
+SPA Window Function - 3["waveformgenerator", "oscilloscope", "oscilloscope", "waveformgenerator"]Set 
+Set 
+OSC TimeSpan - 3["waveformgenerator", "oscilloscope", "oscilloscope", "waveformgenerator"]Set 
+Set 
+WVG Ch1 Function - 3["waveformgenerator", "oscilloscope", "oscilloscope", "waveformgenerator"]Set 
+Set 
+WVG Ch1 Frequency - 3["waveformgenerator", "oscilloscope", "oscilloscope", "waveformgenerator"]Set 
+Set 
+WVG Ch1 Amplitude - 3["waveformgenerator", "oscilloscope", "oscilloscope", "waveformgenerator"]Set 
+Set 
+WVG Ch1 DC Offset - 3["waveformgenerator", "oscilloscope", "oscilloscope", "waveformgenerator"]Set 
+Set 
+WVG Ch1 DC Level - 3["waveformgenerator", "oscilloscope", "oscilloscope", "waveformgenerator"]Set 
+Set 
+WVG Ch1 Phase - 3["waveformgenerator", "oscilloscope", "oscilloscope", "waveformgenerator"]Set 
+Set 
+WVG Ch1 Ramp Symmetry - 3["waveformgenerator", "oscilloscope", "oscilloscope", "waveformgenerator"]Set 
+Set 
+WVG Ch1 Duty Cycle - 3["waveformgenerator", "oscilloscope", "oscilloscope", "waveformgenerator"]Set 
+Set 
+WVG Ch1 Pulse Width - 3["waveformgenerator", "oscilloscope", "oscilloscope", "waveformgenerator"]Set 
+Set 
+WVG Ch1 Edge Time - 3["waveformgenerator", "oscilloscope", "oscilloscope", "waveformgenerator"]Set 
+Set 
+WVG Ch1 Modulation - 3["waveformgenerator", "oscilloscope", "oscilloscope", "waveformgenerator"]Set 
+Set 
+WVG Ch1 Trigger Source - 3["waveformgenerator", "oscilloscope", "oscilloscope", "waveformgenerator"]Set 
+Set 
+WVG Ch1 Mod Type - 3["waveformgenerator", "oscilloscope", "oscilloscope", "waveformgenerator"]Set 
+Set 
+WVG Ch1 Mod Freq - 3["waveformgenerator", "oscilloscope", "oscilloscope", "waveformgenerator"]Set 
+Set 
+WVG Ch1 AM Depth - 3["waveformgenerator", "oscilloscope", "oscilloscope", "waveformgenerator"]Set 
+Set 
+WVG Ch1 FM Depth - 3["waveformgenerator", "oscilloscope", "oscilloscope", "waveformgenerator"]Set 
+Set 
+WVG Ch1 PM Depth - 3["waveformgenerator", "oscilloscope", "oscilloscope", "waveformgenerator"]Set 
+Set 
+WVG Ch2 Function - 3["waveformgenerator", "oscilloscope", "oscilloscope", "waveformgenerator"]Set 
+Set 
+WVG Ch2 Frequency - 3["waveformgenerator", "oscilloscope", "oscilloscope", "waveformgenerator"]Set 
+Set 
+WVG Ch2 Amplitude - 3["waveformgenerator", "oscilloscope", "oscilloscope", "waveformgenerator"]Set 
+Set 
+WVG Ch2 DC Offset - 3["waveformgenerator", "oscilloscope", "oscilloscope", "waveformgenerator"]Set 
+Set 
+WVG Ch2 DC Level - 3["waveformgenerator", "oscilloscope", "oscilloscope", "waveformgenerator"]Set 
+Set 
+WVG Ch2 Phase - 3["waveformgenerator", "oscilloscope", "oscilloscope", "waveformgenerator"]Set 
+Set 
+WVG Ch2 Ramp Symmetry - 3["waveformgenerator", "oscilloscope", "oscilloscope", "waveformgenerator"]Set 
+Set 
+WVG Ch2 Duty Cycle - 3["waveformgenerator", "oscilloscope", "oscilloscope", "waveformgenerator"]Set 
+Set 
+WVG Ch2 Pulse Width - 3["waveformgenerator", "oscilloscope", "oscilloscope", "waveformgenerator"]Set 
+Set 
+WVG Ch2 Edge Time - 3["waveformgenerator", "oscilloscope", "oscilloscope", "waveformgenerator"]Set 
+Set 
+WVG Ch2 Modulation - 3["waveformgenerator", "oscilloscope", "oscilloscope", "waveformgenerator"]Set 
+Set 
+WVG Ch2 Trigger Source - 3["waveformgenerator", "oscilloscope", "oscilloscope", "waveformgenerator"]Set 
+Set 
+WVG Ch2 Mod Type - 3["waveformgenerator", "oscilloscope", "oscilloscope", "waveformgenerator"]Set 
+Set 
+WVG Ch2 Mod Freq - 3["waveformgenerator", "oscilloscope", "oscilloscope", "waveformgenerator"]Set 
+Set 
+WVG Ch2 AM Depth - 3["waveformgenerator", "oscilloscope", "oscilloscope", "waveformgenerator"]Set 
+Set 
+WVG Ch2 FM Depth - 3["waveformgenerator", "oscilloscope", "oscilloscope", "waveformgenerator"]Set 
+Set 
+WVG Ch2 PM Depth - 3["waveformgenerator", "oscilloscope", "oscilloscope", "waveformgenerator"]Set 
+Set 
+AWG Ch1 Premade File? - 3["waveformgenerator", "oscilloscope", "oscilloscope", "waveformgenerator"]Set 
+Set 
+AWG Ch1 Range of x - 3["waveformgenerator", "oscilloscope", "oscilloscope", "waveformgenerator"]Set 
+Set 
+AWG Ch1 f(x) in Python - 3["waveformgenerator", "oscilloscope", "oscilloscope", "waveformgenerator"]Set 
+Set 
+AWG Ch1 Filename - 3["waveformgenerator", "oscilloscope", "oscilloscope", "waveformgenerator"]Set 
+Set 
+AWG Ch1 Frequency - 3["waveformgenerator", "oscilloscope", "oscilloscope", "waveformgenerator"]Set 
+Set 
+AWG Ch1 Amplitude - 3["waveformgenerator", "oscilloscope", "oscilloscope", "waveformgenerator"]Set 
+Set 
+AWG Ch1 Sample Rate - 3["waveformgenerator", "oscilloscope", "oscilloscope", "waveformgenerator"]Set 
+Set 
+AWG Ch1 Output Load - 3["waveformgenerator", "oscilloscope", "oscilloscope", "waveformgenerator"]Set 
+Set 
+AWG Ch1 Modulate - 3["waveformgenerator", "oscilloscope", "oscilloscope", "waveformgenerator"]Set 
+Set 
+AWG Ch1 Trigger Source - 3["waveformgenerator", "oscilloscope", "oscilloscope", "waveformgenerator"]Set 
+Set 
+AWG Ch1 Trigger Mode - 3["waveformgenerator", "oscilloscope", "oscilloscope", "waveformgenerator"]Set 
+Set 
+AWG Ch1 Trigger Level - 3["waveformgenerator", "oscilloscope", "oscilloscope", "waveformgenerator"]Set 
+Set 
+AWG Ch1 Input Range - 3["waveformgenerator", "oscilloscope", "oscilloscope", "waveformgenerator"]Set 
+Set 
+AWG Ch1 Burst Cycles - 3["waveformgenerator", "oscilloscope", "oscilloscope", "waveformgenerator"]Set 
+Set 
+AWG Ch1 Dead Cycles - 3["waveformgenerator", "oscilloscope", "oscilloscope", "waveformgenerator"]Set 
+Set 
+AWG Ch1 Dead Voltage - 3["waveformgenerator", "oscilloscope", "oscilloscope", "waveformgenerator"]Set 
+Set 
+AWG Ch2 Premade File? - 3["waveformgenerator", "oscilloscope", "oscilloscope", "waveformgenerator"]Set 
+Set 
+AWG Ch2 Range of x - 3["waveformgenerator", "oscilloscope", "oscilloscope", "waveformgenerator"]Set 
+Set 
+AWG Ch2 f(x) in Python - 3["waveformgenerator", "oscilloscope", "oscilloscope", "waveformgenerator"]Set 
+Set 
+AWG Ch2 Filename - 3["waveformgenerator", "oscilloscope", "oscilloscope", "waveformgenerator"]Set 
+Set 
+AWG Ch2 Frequency - 3["waveformgenerator", "oscilloscope", "oscilloscope", "waveformgenerator"]Set 
+Set 
+AWG Ch2 Amplitude - 3["waveformgenerator", "oscilloscope", "oscilloscope", "waveformgenerator"]Set 
+Set 
+AWG Ch2 Sample Rate - 3["waveformgenerator", "oscilloscope", "oscilloscope", "waveformgenerator"]Set 
+Set 
+AWG Ch2 Output Load - 3["waveformgenerator", "oscilloscope", "oscilloscope", "waveformgenerator"]Set 
+Set 
+AWG Ch2 Modulate - 3["waveformgenerator", "oscilloscope", "oscilloscope", "waveformgenerator"]Set 
+Set 
+AWG Ch2 Trigger Source - 3["waveformgenerator", "oscilloscope", "oscilloscope", "waveformgenerator"]Set 
+Set 
+AWG Ch2 Trigger Mode - 3["waveformgenerator", "oscilloscope", "oscilloscope", "waveformgenerator"]Set 
+Set 
+AWG Ch2 Trigger Level - 3["waveformgenerator", "oscilloscope", "oscilloscope", "waveformgenerator"]Set 
+Set 
+AWG Ch2 Input Range - 3["waveformgenerator", "oscilloscope", "oscilloscope", "waveformgenerator"]Set 
+Set 
+AWG Ch2 Burst Cycles - 3["waveformgenerator", "oscilloscope", "oscilloscope", "waveformgenerator"]Set 
+Set 
+AWG Ch2 Dead Cycles - 3["waveformgenerator", "oscilloscope", "oscilloscope", "waveformgenerator"]Set 
+Set 
+AWG Ch2 Dead Voltage - 3["waveformgenerator", "oscilloscope", "oscilloscope", "waveformgenerator"]Set 
+Set 
+Instrument - Slot4["waveformgenerator", "oscilloscope", "oscilloscope", "waveformgenerator"]Set 
+Set 
+LIA Output - Main - 4["waveformgenerator", "oscilloscope", "oscilloscope", "waveformgenerator"]Set 
+Set 
+LIA Output - Aux - 4["waveformgenerator", "oscilloscope", "oscilloscope", "waveformgenerator"]Set 
+Set 
+LIA Output - Main Offset - 4["waveformgenerator", "oscilloscope", "oscilloscope", "waveformgenerator"]Set 
+Set 
+LIA Output - Aux Offset - 4["waveformgenerator", "oscilloscope", "oscilloscope", "waveformgenerator"]Set 
+Set 
+LIA Aux Frequency - 4["waveformgenerator", "oscilloscope", "oscilloscope", "waveformgenerator"]Set 
+Set 
+LIA Aux Amplitude - 4["waveformgenerator", "oscilloscope", "oscilloscope", "waveformgenerator"]Set 
+Set 
+LIA LPF Cutoff Freq - 4["waveformgenerator", "oscilloscope", "oscilloscope", "waveformgenerator"]Set 
+Set 
+LIA LPF Slope - 4["waveformgenerator", "oscilloscope", "oscilloscope", "waveformgenerator"]Set 
+Set 
+FRA Sweep Start Freq - 4["waveformgenerator", "oscilloscope", "oscilloscope", "waveformgenerator"]Set 
+Set 
+FRA Sweep End Freq - 4["waveformgenerator", "oscilloscope", "oscilloscope", "waveformgenerator"]Set 
+Set 
+FRA Sweep Num-Points - 4["waveformgenerator", "oscilloscope", "oscilloscope", "waveformgenerator"]Set 
+Set 
+FRA Sweep Averaging-Time - 4["waveformgenerator", "oscilloscope", "oscilloscope", "waveformgenerator"]Set 
+Set 
+FRA Sweep Averaging-Cycles - 4["waveformgenerator", "oscilloscope", "oscilloscope", "waveformgenerator"]Set 
+Set 
+FRA Sweep Settling-Time - 4["waveformgenerator", "oscilloscope", "oscilloscope", "waveformgenerator"]Set 
+Set 
+FRA Sweep Settling-Cycles - 4["waveformgenerator", "oscilloscope", "oscilloscope", "waveformgenerator"]Set 
+Set 
+FRA Sweep Linear - 4["waveformgenerator", "oscilloscope", "oscilloscope", "waveformgenerator"]Set 
+Set 
+FRA Output Amplitude - 4["waveformgenerator", "oscilloscope", "oscilloscope", "waveformgenerator"]Set 
+Set 
+FRA Output Offset - 4["waveformgenerator", "oscilloscope", "oscilloscope", "waveformgenerator"]Set 
+Set 
+FRA Output Phase - 4["waveformgenerator", "oscilloscope", "oscilloscope", "waveformgenerator"]Set 
+Set 
+FRA Harmonic Multiplier - 4["waveformgenerator", "oscilloscope", "oscilloscope", "waveformgenerator"]Set 
+Set 
+FRA Measurement Mode - 4["waveformgenerator", "oscilloscope", "oscilloscope", "waveformgenerator"]Set 
+Set 
+SPA Freq Lower Bound - 4["waveformgenerator", "oscilloscope", "oscilloscope", "waveformgenerator"]Set 
+Set 
+SPA Freq Upper Bound - 4["waveformgenerator", "oscilloscope", "oscilloscope", "waveformgenerator"]Set 
+Set 
+SPA Resolution Mode - 4["waveformgenerator", "oscilloscope", "oscilloscope", "waveformgenerator"]Set 
+Set 
+SPA Resolution Bandwidth - 4["waveformgenerator", "oscilloscope", "oscilloscope", "waveformgenerator"]Set 
+Set 
+SPA Window Function - 4["waveformgenerator", "oscilloscope", "oscilloscope", "waveformgenerator"]Set 
+Set 
+OSC TimeSpan - 4["waveformgenerator", "oscilloscope", "oscilloscope", "waveformgenerator"]Set 
+Set 
+WVG Ch1 Function - 4["waveformgenerator", "oscilloscope", "oscilloscope", "waveformgenerator"]Set 
+Set 
+WVG Ch1 Frequency - 4["waveformgenerator", "oscilloscope", "oscilloscope", "waveformgenerator"]Set 
+Set 
+WVG Ch1 Amplitude - 4["waveformgenerator", "oscilloscope", "oscilloscope", "waveformgenerator"]Set 
+Set 
+WVG Ch1 DC Offset - 4["waveformgenerator", "oscilloscope", "oscilloscope", "waveformgenerator"]Set 
+Set 
+WVG Ch1 DC Level - 4["waveformgenerator", "oscilloscope", "oscilloscope", "waveformgenerator"]Set 
+Set 
+WVG Ch1 Phase - 4["waveformgenerator", "oscilloscope", "oscilloscope", "waveformgenerator"]Set 
+Set 
+WVG Ch1 Ramp Symmetry - 4["waveformgenerator", "oscilloscope", "oscilloscope", "waveformgenerator"]Set 
+Set 
+WVG Ch1 Duty Cycle - 4["waveformgenerator", "oscilloscope", "oscilloscope", "waveformgenerator"]Set 
+Set 
+WVG Ch1 Pulse Width - 4["waveformgenerator", "oscilloscope", "oscilloscope", "waveformgenerator"]Set 
+Set 
+WVG Ch1 Edge Time - 4["waveformgenerator", "oscilloscope", "oscilloscope", "waveformgenerator"]Set 
+Set 
+WVG Ch1 Modulation - 4["waveformgenerator", "oscilloscope", "oscilloscope", "waveformgenerator"]Set 
+Set 
+WVG Ch1 Trigger Source - 4["waveformgenerator", "oscilloscope", "oscilloscope", "waveformgenerator"]Set 
+Set 
+WVG Ch1 Mod Type - 4["waveformgenerator", "oscilloscope", "oscilloscope", "waveformgenerator"]Set 
+Set 
+WVG Ch1 Mod Freq - 4["waveformgenerator", "oscilloscope", "oscilloscope", "waveformgenerator"]Set 
+Set 
+WVG Ch1 AM Depth - 4["waveformgenerator", "oscilloscope", "oscilloscope", "waveformgenerator"]Set 
+Set 
+WVG Ch1 FM Depth - 4["waveformgenerator", "oscilloscope", "oscilloscope", "waveformgenerator"]Set 
+Set 
+WVG Ch1 PM Depth - 4["waveformgenerator", "oscilloscope", "oscilloscope", "waveformgenerator"]Set 
+Set 
+WVG Ch2 Function - 4["waveformgenerator", "oscilloscope", "oscilloscope", "waveformgenerator"]Set 
+Set 
+WVG Ch2 Frequency - 4["waveformgenerator", "oscilloscope", "oscilloscope", "waveformgenerator"]Set 
+Set 
+WVG Ch2 Amplitude - 4["waveformgenerator", "oscilloscope", "oscilloscope", "waveformgenerator"]Set 
+Set 
+WVG Ch2 DC Offset - 4["waveformgenerator", "oscilloscope", "oscilloscope", "waveformgenerator"]Set 
+Set 
+WVG Ch2 DC Level - 4["waveformgenerator", "oscilloscope", "oscilloscope", "waveformgenerator"]Set 
+Set 
+WVG Ch2 Phase - 4["waveformgenerator", "oscilloscope", "oscilloscope", "waveformgenerator"]Set 
+Set 
+WVG Ch2 Ramp Symmetry - 4["waveformgenerator", "oscilloscope", "oscilloscope", "waveformgenerator"]Set 
+Set 
+WVG Ch2 Duty Cycle - 4["waveformgenerator", "oscilloscope", "oscilloscope", "waveformgenerator"]Set 
+Set 
+WVG Ch2 Pulse Width - 4["waveformgenerator", "oscilloscope", "oscilloscope", "waveformgenerator"]Set 
+Set 
+WVG Ch2 Edge Time - 4["waveformgenerator", "oscilloscope", "oscilloscope", "waveformgenerator"]Set 
+Set 
+WVG Ch2 Modulation - 4["waveformgenerator", "oscilloscope", "oscilloscope", "waveformgenerator"]Set 
+Set 
+WVG Ch2 Trigger Source - 4["waveformgenerator", "oscilloscope", "oscilloscope", "waveformgenerator"]Set 
+Set 
+WVG Ch2 Mod Type - 4["waveformgenerator", "oscilloscope", "oscilloscope", "waveformgenerator"]Set 
+Set 
+WVG Ch2 Mod Freq - 4["waveformgenerator", "oscilloscope", "oscilloscope", "waveformgenerator"]Set 
+Set 
+WVG Ch2 AM Depth - 4["waveformgenerator", "oscilloscope", "oscilloscope", "waveformgenerator"]Set 
+Set 
+WVG Ch2 FM Depth - 4["waveformgenerator", "oscilloscope", "oscilloscope", "waveformgenerator"]Set 
+Set 
+WVG Ch2 PM Depth - 4["waveformgenerator", "oscilloscope", "oscilloscope", "waveformgenerator"]Set 
+Set 
+AWG Ch1 Premade File? - 4["waveformgenerator", "oscilloscope", "oscilloscope", "waveformgenerator"]Set 
+Set 
+AWG Ch1 Range of x - 4["waveformgenerator", "oscilloscope", "oscilloscope", "waveformgenerator"]Set 
+Set 
+AWG Ch1 f(x) in Python - 4["waveformgenerator", "oscilloscope", "oscilloscope", "waveformgenerator"]Set 
+Set 
+AWG Ch1 Filename - 4["waveformgenerator", "oscilloscope", "oscilloscope", "waveformgenerator"]Set 
+Set 
+AWG Ch1 Frequency - 4["waveformgenerator", "oscilloscope", "oscilloscope", "waveformgenerator"]Set 
+Set 
+AWG Ch1 Amplitude - 4["waveformgenerator", "oscilloscope", "oscilloscope", "waveformgenerator"]Set 
+Set 
+AWG Ch1 Sample Rate - 4["waveformgenerator", "oscilloscope", "oscilloscope", "waveformgenerator"]Set 
+Set 
+AWG Ch1 Output Load - 4["waveformgenerator", "oscilloscope", "oscilloscope", "waveformgenerator"]Set 
+Set 
+AWG Ch1 Modulate - 4["waveformgenerator", "oscilloscope", "oscilloscope", "waveformgenerator"]Set 
+Set 
+AWG Ch1 Trigger Source - 4["waveformgenerator", "oscilloscope", "oscilloscope", "waveformgenerator"]Set 
+Set 
+AWG Ch1 Trigger Mode - 4["waveformgenerator", "oscilloscope", "oscilloscope", "waveformgenerator"]Set 
+Set 
+AWG Ch1 Trigger Level - 4["waveformgenerator", "oscilloscope", "oscilloscope", "waveformgenerator"]Set 
+Set 
+AWG Ch1 Input Range - 4["waveformgenerator", "oscilloscope", "oscilloscope", "waveformgenerator"]Set 
+Set 
+AWG Ch1 Burst Cycles - 4["waveformgenerator", "oscilloscope", "oscilloscope", "waveformgenerator"]Set 
+Set 
+AWG Ch1 Dead Cycles - 4["waveformgenerator", "oscilloscope", "oscilloscope", "waveformgenerator"]Set 
+Set 
+AWG Ch1 Dead Voltage - 4["waveformgenerator", "oscilloscope", "oscilloscope", "waveformgenerator"]Set 
+Set 
+AWG Ch2 Premade File? - 4["waveformgenerator", "oscilloscope", "oscilloscope", "waveformgenerator"]Set 
+Set 
+AWG Ch2 Range of x - 4["waveformgenerator", "oscilloscope", "oscilloscope", "waveformgenerator"]Set 
+Set 
+AWG Ch2 f(x) in Python - 4["waveformgenerator", "oscilloscope", "oscilloscope", "waveformgenerator"]Set 
+Set 
+AWG Ch2 Filename - 4["waveformgenerator", "oscilloscope", "oscilloscope", "waveformgenerator"]Set 
+Set 
+AWG Ch2 Frequency - 4["waveformgenerator", "oscilloscope", "oscilloscope", "waveformgenerator"]Set 
+Set 
+AWG Ch2 Amplitude - 4["waveformgenerator", "oscilloscope", "oscilloscope", "waveformgenerator"]Set 
+Set 
+AWG Ch2 Sample Rate - 4["waveformgenerator", "oscilloscope", "oscilloscope", "waveformgenerator"]Set 
+Set 
+AWG Ch2 Output Load - 4["waveformgenerator", "oscilloscope", "oscilloscope", "waveformgenerator"]Set 
+Set 
+AWG Ch2 Modulate - 4["waveformgenerator", "oscilloscope", "oscilloscope", "waveformgenerator"]Set 
+Set 
+AWG Ch2 Trigger Source - 4["waveformgenerator", "oscilloscope", "oscilloscope", "waveformgenerator"]Set 
+Set 
+AWG Ch2 Trigger Mode - 4["waveformgenerator", "oscilloscope", "oscilloscope", "waveformgenerator"]Set 
+Set 
+AWG Ch2 Trigger Level - 4["waveformgenerator", "oscilloscope", "oscilloscope", "waveformgenerator"]Set 
+Set 
+AWG Ch2 Input Range - 4["waveformgenerator", "oscilloscope", "oscilloscope", "waveformgenerator"]Set 
+Set 
+AWG Ch2 Burst Cycles - 4["waveformgenerator", "oscilloscope", "oscilloscope", "waveformgenerator"]Set 
+Set 
+AWG Ch2 Dead Cycles - 4["waveformgenerator", "oscilloscope", "oscilloscope", "waveformgenerator"]Set 
+Set 
+AWG Ch2 Dead Voltage - 4["waveformgenerator", "oscilloscope", "oscilloscope", "waveformgenerator"]Set 
+Read 
+OSC Ch1 Data - 2["waveformgenerator", "oscilloscope", "oscilloscope", "waveformgenerator"]Read 
+Read 
+OSC Ch2 Data - 2["waveformgenerator", "oscilloscope", "oscilloscope", "waveformgenerator"]Read 
+["waveformgenerator", "oscilloscope", "oscilloscope", "waveformgenerator"]Start 
+["waveformgenerator", "oscilloscope", "oscilloscope", "awg"]Start 
+["waveformgenerator", "oscilloscope", "oscilloscope", "awg"]Start 
+["waveformgenerator", "oscilloscope", "oscilloscope", "awg"]Start 
+["waveformgenerator", "oscilloscope", "oscilloscope", "awg"]Start 
+["waveformgenerator", "oscilloscope", "oscilloscope", "awg"]Read 
+["waveformgenerator", "oscilloscope", "oscilloscope", "awg"]Start 
+["waveformgenerator", "oscilloscope", "oscilloscope", "awg"]Start 
+["waveformgenerator", "oscilloscope", "oscilloscope", "awg"]Start 
+["waveformgenerator", "oscilloscope", "oscilloscope", "awg"]Start 
+["waveformgenerator", "oscilloscope", "oscilloscope", "awg"]Start 
+["waveformgenerator", "oscilloscope", "oscilloscope", "awg"]Start 
+["waveformgenerator", "oscilloscope", "oscilloscope", "awg"]Read 
+["waveformgenerator", "oscilloscope", "oscilloscope", "awg"]Read 
+["waveformgenerator", "oscilloscope", "oscilloscope", "awg"]Start 
+["waveformgenerator", "oscilloscope", "oscilloscope", "awg"]Read 
+["waveformgenerator", "oscilloscope", "oscilloscope", "awg"]Start 
+["waveformgenerator", "oscilloscope", "oscilloscope", "awg"]Read 
+["waveformgenerator", "oscilloscope", "oscilloscope", "awg"]Start 
+["waveformgenerator", "oscilloscope", "oscilloscope", "awg"]Start 
+{"averaging_cycles": 1, "averaging_time": 0.001, "estimated_sweep_time": 5.632041671405319, "linear_scale": true, "num_points": 512, "settling_cycles": 1, "settling_time": 0.01, "start_frequency": 20000000.0, "stop_frequency": 1000000.0}Set 
+{"averaging_cycles": 1, "averaging_time": 0.001, "estimated_sweep_time": 5.632041671405319, "linear_scale": true, "num_points": 512, "settling_cycles": 1, "settling_time": 0.01, "start_frequency": 20000000.0, "stop_frequency": 1000000.0}Set 
+{"averaging_cycles": 1, "averaging_time": 0.001, "estimated_sweep_time": 5.632041671405319, "linear_scale": true, "num_points": 512, "settling_cycles": 1, "settling_time": 0.01, "start_frequency": 20000000.0, "stop_frequency": 1000000.0}Set 
+{"averaging_cycles": 1, "averaging_time": 0.001, "estimated_sweep_time": 5.632041671405319, "linear_scale": true, "num_points": 512, "settling_cycles": 1, "settling_time": 0.01, "start_frequency": 20000000.0, "stop_frequency": 1000000.0}Set 
+{"averaging_cycles": 1, "averaging_time": 0.001, "estimated_sweep_time": 5.632041671405319, "linear_scale": true, "num_points": 512, "settling_cycles": 1, "settling_time": 0.01, "start_frequency": 20000000.0, "stop_frequency": 1000000.0}Set 
+{"averaging_cycles": 1, "averaging_time": 0.001, "estimated_sweep_time": 5.632041671405319, "linear_scale": true, "num_points": 512, "settling_cycles": 1, "settling_time": 0.01, "start_frequency": 20000000.0, "stop_frequency": 1000000.0}Set 
+{"averaging_cycles": 1, "averaging_time": 0.001, "estimated_sweep_time": 5.632041671405319, "linear_scale": true, "num_points": 512, "settling_cycles": 1, "settling_time": 0.01, "start_frequency": 20000000.0, "stop_frequency": 1000000.0}Set 
+{"averaging_cycles": 1, "averaging_time": 0.001, "estimated_sweep_time": 5.632041671405319, "linear_scale": true, "num_points": 512, "settling_cycles": 1, "settling_time": 0.01, "start_frequency": 20000000.0, "stop_frequency": 1000000.0}Set 
+{"averaging_cycles": 1, "averaging_time": 0.001, "estimated_sweep_time": 5.632041671405319, "linear_scale": true, "num_points": 512, "settling_cycles": 1, "settling_time": 0.01, "start_frequency": 20000000.0, "stop_frequency": 1000000.0}Set 
+Read 
+{"averaging_cycles": 1, "averaging_time": 0.001, "estimated_sweep_time": 5.632041671405319, "linear_scale": true, "num_points": 512, "settling_cycles": 1, "settling_time": 0.01, "start_frequency": 20000000.0, "stop_frequency": 1000000.0}Read 
+{"averaging_cycles": 1, "averaging_time": 0.001, "estimated_sweep_time": 5.63204921260419, "linear_scale": true, "num_points": 512, "settling_cycles": 1, "settling_time": 0.01, "start_frequency": 15500000.0, "stop_frequency": 1000000.0}Set 
+Read 
+{"averaging_cycles": 1, "averaging_time": 0.001, "estimated_sweep_time": 5.63204921260419, "linear_scale": true, "num_points": 512, "settling_cycles": 1, "settling_time": 0.01, "start_frequency": 15500000.0, "stop_frequency": 1000000.0}Read 
+{"averaging_cycles": 1, "averaging_time": 0.001, "estimated_sweep_time": 5.632060765417325, "linear_scale": true, "num_points": 512, "settling_cycles": 1, "settling_time": 0.01, "start_frequency": 11000000.0, "stop_frequency": 1000000.0}Set 
+Read 
+{"averaging_cycles": 1, "averaging_time": 0.001, "estimated_sweep_time": 5.632060765417325, "linear_scale": true, "num_points": 512, "settling_cycles": 1, "settling_time": 0.01, "start_frequency": 11000000.0, "stop_frequency": 1000000.0}Read 
+{"averaging_cycles": 1, "averaging_time": 0.001, "estimated_sweep_time": 5.632087322934957, "linear_scale": true, "num_points": 512, "settling_cycles": 1, "settling_time": 0.01, "start_frequency": 6500000.0, "stop_frequency": 1000000.0}Set 
+Read 
+{"averaging_cycles": 1, "averaging_time": 0.001, "estimated_sweep_time": 5.632087322934957, "linear_scale": true, "num_points": 512, "settling_cycles": 1, "settling_time": 0.01, "start_frequency": 6500000.0, "stop_frequency": 1000000.0}Read 
+{"averaging_cycles": 1, "averaging_time": 0.001, "estimated_sweep_time": 5.632176447081469, "linear_scale": true, "num_points": 512, "settling_cycles": 1, "settling_time": 0.01, "start_frequency": 2000000.0, "stop_frequency": 1000000.0}Set 
+Read 
+{"averaging_cycles": 1, "averaging_time": 0.001, "estimated_sweep_time": 5.632176447081469, "linear_scale": true, "num_points": 512, "settling_cycles": 1, "settling_time": 0.01, "start_frequency": 2000000.0, "stop_frequency": 1000000.0}Read 
+{"averaging_cycles": 1, "averaging_time": 0.001, "estimated_sweep_time": 5.632041671405319, "linear_scale": true, "num_points": 512, "settling_cycles": 1, "settling_time": 0.01, "start_frequency": 20000000.0, "stop_frequency": 1000000.0}Set 
+{"averaging_cycles": 1, "averaging_time": 0.001, "estimated_sweep_time": 5.632350616674942, "linear_scale": true, "num_points": 512, "settling_cycles": 1, "settling_time": 0.01, "start_frequency": 500000.0, "stop_frequency": 1000000.0}Set 
+{"averaging_cycles": 1, "averaging_time": 0.001, "estimated_sweep_time": 5.632350616674942, "linear_scale": true, "num_points": 512, "settling_cycles": 1, "settling_time": 0.01, "start_frequency": 500000.0, "stop_frequency": 1000000.0}Set 
+{"averaging_cycles": 1, "averaging_time": 0.001, "estimated_sweep_time": 5.632350616674942, "linear_scale": true, "num_points": 512, "settling_cycles": 1, "settling_time": 0.01, "start_frequency": 500000.0, "stop_frequency": 1000000.0}Set 
+{"averaging_cycles": 1, "averaging_time": 0.001, "estimated_sweep_time": 5.632350616674942, "linear_scale": true, "num_points": 512, "settling_cycles": 1, "settling_time": 0.01, "start_frequency": 500000.0, "stop_frequency": 1000000.0}Set 
+{"averaging_cycles": 1, "averaging_time": 0.001, "estimated_sweep_time": 5.632350616674942, "linear_scale": true, "num_points": 512, "settling_cycles": 1, "settling_time": 0.01, "start_frequency": 500000.0, "stop_frequency": 1000000.0}Set 
+{"averaging_cycles": 1, "averaging_time": 0.001, "estimated_sweep_time": 5.632350616674942, "linear_scale": true, "num_points": 512, "settling_cycles": 1, "settling_time": 0.01, "start_frequency": 500000.0, "stop_frequency": 1000000.0}Set 
+{"averaging_cycles": 1, "averaging_time": 0.001, "estimated_sweep_time": 5.632350616674942, "linear_scale": true, "num_points": 512, "settling_cycles": 1, "settling_time": 0.01, "start_frequency": 500000.0, "stop_frequency": 1000000.0}Set 
+{"averaging_cycles": 1, "averaging_time": 0.001, "estimated_sweep_time": 5.632350616674942, "linear_scale": true, "num_points": 512, "settling_cycles": 1, "settling_time": 0.01, "start_frequency": 500000.0, "stop_frequency": 1000000.0}Set 
+{"averaging_cycles": 1, "averaging_time": 0.001, "estimated_sweep_time": 5.632350616674942, "linear_scale": true, "num_points": 512, "settling_cycles": 1, "settling_time": 0.01, "start_frequency": 500000.0, "stop_frequency": 1000000.0}Set 
+Read 
+{"averaging_cycles": 1, "averaging_time": 0.001, "estimated_sweep_time": 5.632350616674942, "linear_scale": true, "num_points": 512, "settling_cycles": 1, "settling_time": 0.01, "start_frequency": 500000.0, "stop_frequency": 1000000.0}Read 
+{"averaging_cycles": 1, "averaging_time": 0.001, "estimated_sweep_time": 5.632054395834771, "linear_scale": true, "num_points": 512, "settling_cycles": 1, "settling_time": 0.01, "start_frequency": 10490000.0, "stop_frequency": 1000000.0}Set 
+Read 
+{"averaging_cycles": 1, "averaging_time": 0.001, "estimated_sweep_time": 5.632054395834771, "linear_scale": true, "num_points": 512, "settling_cycles": 1, "settling_time": 0.01, "start_frequency": 10490000.0, "stop_frequency": 1000000.0}Read 
+{"averaging_cycles": 1, "averaging_time": 0.001, "estimated_sweep_time": 5.632039885268872, "linear_scale": true, "num_points": 512, "settling_cycles": 1, "settling_time": 0.01, "start_frequency": 20480000.0, "stop_frequency": 1000000.0}Set 
+Read 
+{"averaging_cycles": 1, "averaging_time": 0.001, "estimated_sweep_time": 5.632039885268872, "linear_scale": true, "num_points": 512, "settling_cycles": 1, "settling_time": 0.01, "start_frequency": 20480000.0, "stop_frequency": 1000000.0}Read 
+{"averaging_cycles": 1, "averaging_time": 0.001, "estimated_sweep_time": 5.632030428919423, "linear_scale": true, "num_points": 512, "settling_cycles": 1, "settling_time": 0.01, "start_frequency": 30470000.0, "stop_frequency": 1000000.0}Set 
+Read 
+{"averaging_cycles": 1, "averaging_time": 0.001, "estimated_sweep_time": 5.632030428919423, "linear_scale": true, "num_points": 512, "settling_cycles": 1, "settling_time": 0.01, "start_frequency": 30470000.0, "stop_frequency": 1000000.0}Read 
+{"averaging_cycles": 1, "averaging_time": 0.001, "estimated_sweep_time": 5.632023452198209, "linear_scale": true, "num_points": 512, "settling_cycles": 1, "settling_time": 0.01, "start_frequency": 40460000.0, "stop_frequency": 1000000.0}Set 
+Read 
+{"averaging_cycles": 1, "averaging_time": 0.001, "estimated_sweep_time": 5.632023452198209, "linear_scale": true, "num_points": 512, "settling_cycles": 1, "settling_time": 0.01, "start_frequency": 40460000.0, "stop_frequency": 1000000.0}Read 
+{"averaging_cycles": 1, "averaging_time": 0.001, "estimated_sweep_time": 5.6320199639401, "linear_scale": true, "num_points": 512, "settling_cycles": 1, "settling_time": 0.01, "start_frequency": 50450000.0, "stop_frequency": 1000000.0}Set 
+Read 
+{"averaging_cycles": 1, "averaging_time": 0.001, "estimated_sweep_time": 5.6320199639401, "linear_scale": true, "num_points": 512, "settling_cycles": 1, "settling_time": 0.01, "start_frequency": 50450000.0, "stop_frequency": 1000000.0}Read 
+{"averaging_cycles": 1, "averaging_time": 0.001, "estimated_sweep_time": 5.6320170307565505, "linear_scale": true, "num_points": 512, "settling_cycles": 1, "settling_time": 0.01, "start_frequency": 60440000.0, "stop_frequency": 1000000.0}Set 
+Read 
+{"averaging_cycles": 1, "averaging_time": 0.001, "estimated_sweep_time": 5.6320170307565505, "linear_scale": true, "num_points": 512, "settling_cycles": 1, "settling_time": 0.01, "start_frequency": 60440000.0, "stop_frequency": 1000000.0}Read 
+{"averaging_cycles": 1, "averaging_time": 0.001, "estimated_sweep_time": 5.632014871491577, "linear_scale": true, "num_points": 512, "settling_cycles": 1, "settling_time": 0.01, "start_frequency": 70430000.0, "stop_frequency": 1000000.0}Set 
+Read 
+{"averaging_cycles": 1, "averaging_time": 0.001, "estimated_sweep_time": 5.632014871491577, "linear_scale": true, "num_points": 512, "settling_cycles": 1, "settling_time": 0.01, "start_frequency": 70430000.0, "stop_frequency": 1000000.0}Read 
+{"averaging_cycles": 1, "averaging_time": 0.001, "estimated_sweep_time": 5.6320136947063135, "linear_scale": true, "num_points": 512, "settling_cycles": 1, "settling_time": 0.01, "start_frequency": 80420000.0, "stop_frequency": 1000000.0}Set 
+Read 
+{"averaging_cycles": 1, "averaging_time": 0.001, "estimated_sweep_time": 5.6320136947063135, "linear_scale": true, "num_points": 512, "settling_cycles": 1, "settling_time": 0.01, "start_frequency": 80420000.0, "stop_frequency": 1000000.0}Read 
+{"averaging_cycles": 1, "averaging_time": 0.001, "estimated_sweep_time": 5.632010919144454, "linear_scale": true, "num_points": 512, "settling_cycles": 1, "settling_time": 0.01, "start_frequency": 90410000.0, "stop_frequency": 1000000.0}Set 
+Read 
+{"averaging_cycles": 1, "averaging_time": 0.001, "estimated_sweep_time": 5.632010919144454, "linear_scale": true, "num_points": 512, "settling_cycles": 1, "settling_time": 0.01, "start_frequency": 90410000.0, "stop_frequency": 1000000.0}Read 
+{"averaging_cycles": 1, "averaging_time": 0.001, "estimated_sweep_time": 5.632012101814437, "linear_scale": true, "num_points": 512, "settling_cycles": 1, "settling_time": 0.01, "start_frequency": 100400000.0, "stop_frequency": 1000000.0}Set 
+Read 
+{"averaging_cycles": 1, "averaging_time": 0.001, "estimated_sweep_time": 5.632012101814437, "linear_scale": true, "num_points": 512, "settling_cycles": 1, "settling_time": 0.01, "start_frequency": 100400000.0, "stop_frequency": 1000000.0}Read 
+{"averaging_cycles": 1, "averaging_time": 0.001, "estimated_sweep_time": 5.632011486681292, "linear_scale": true, "num_points": 512, "settling_cycles": 1, "settling_time": 0.01, "start_frequency": 110390000.0, "stop_frequency": 1000000.0}Set 
+Read 
+{"averaging_cycles": 1, "averaging_time": 0.001, "estimated_sweep_time": 5.632011486681292, "linear_scale": true, "num_points": 512, "settling_cycles": 1, "settling_time": 0.01, "start_frequency": 110390000.0, "stop_frequency": 1000000.0}Read 
+{"averaging_cycles": 1, "averaging_time": 0.001, "estimated_sweep_time": 5.632009915526974, "linear_scale": true, "num_points": 512, "settling_cycles": 1, "settling_time": 0.01, "start_frequency": 120380000.0, "stop_frequency": 1000000.0}Set 
+Read 
+{"averaging_cycles": 1, "averaging_time": 0.001, "estimated_sweep_time": 5.632009915526974, "linear_scale": true, "num_points": 512, "settling_cycles": 1, "settling_time": 0.01, "start_frequency": 120380000.0, "stop_frequency": 1000000.0}Read 
+{"averaging_cycles": 1, "averaging_time": 0.001, "estimated_sweep_time": 5.632009855936362, "linear_scale": true, "num_points": 512, "settling_cycles": 1, "settling_time": 0.01, "start_frequency": 130370000.0, "stop_frequency": 1000000.0}Set 
+Read 
+{"averaging_cycles": 1, "averaging_time": 0.001, "estimated_sweep_time": 5.632009855936362, "linear_scale": true, "num_points": 512, "settling_cycles": 1, "settling_time": 0.01, "start_frequency": 130370000.0, "stop_frequency": 1000000.0}Read 
+{"averaging_cycles": 1, "averaging_time": 0.001, "estimated_sweep_time": 5.632008859300106, "linear_scale": true, "num_points": 512, "settling_cycles": 1, "settling_time": 0.01, "start_frequency": 140360000.0, "stop_frequency": 1000000.0}Set 
+Read 
+{"averaging_cycles": 1, "averaging_time": 0.001, "estimated_sweep_time": 5.632008859300106, "linear_scale": true, "num_points": 512, "settling_cycles": 1, "settling_time": 0.01, "start_frequency": 140360000.0, "stop_frequency": 1000000.0}Read 
+{"averaging_cycles": 1, "averaging_time": 5e-05, "estimated_sweep_time": 5.145608470645406, "linear_scale": true, "num_points": 512, "settling_cycles": 1, "settling_time": 0.01, "start_frequency": 140360000.0, "stop_frequency": 1000000.0}Set 
+{"averaging_cycles": 1, "averaging_time": 5e-05, "estimated_sweep_time": 0.0512084706454026, "linear_scale": true, "num_points": 512, "settling_cycles": 1, "settling_time": 5e-05, "start_frequency": 140360000.0, "stop_frequency": 1000000.0}Set 
+{"averaging_cycles": 1, "averaging_time": 5e-05, "estimated_sweep_time": 0.0515560598042882, "linear_scale": true, "num_points": 512, "settling_cycles": 1, "settling_time": 5e-05, "start_frequency": 500000.0, "stop_frequency": 1000000.0}Set 
+{"averaging_cycles": 1, "averaging_time": 5e-05, "estimated_sweep_time": 0.0515560598042882, "linear_scale": true, "num_points": 512, "settling_cycles": 1, "settling_time": 5e-05, "start_frequency": 500000.0, "stop_frequency": 1000000.0}Set 
+{"averaging_cycles": 1, "averaging_time": 5e-05, "estimated_sweep_time": 0.0515560598042882, "linear_scale": true, "num_points": 512, "settling_cycles": 1, "settling_time": 5e-05, "start_frequency": 500000.0, "stop_frequency": 1000000.0}Set 
+{"averaging_cycles": 1, "averaging_time": 5e-05, "estimated_sweep_time": 0.0515560598042882, "linear_scale": true, "num_points": 512, "settling_cycles": 1, "settling_time": 5e-05, "start_frequency": 500000.0, "stop_frequency": 1000000.0}Set 
+{"averaging_cycles": 1, "averaging_time": 5e-05, "estimated_sweep_time": 0.0515560598042882, "linear_scale": true, "num_points": 512, "settling_cycles": 1, "settling_time": 5e-05, "start_frequency": 500000.0, "stop_frequency": 1000000.0}Set 
+{"averaging_cycles": 1, "averaging_time": 5e-05, "estimated_sweep_time": 0.0515560598042882, "linear_scale": true, "num_points": 512, "settling_cycles": 1, "settling_time": 5e-05, "start_frequency": 500000.0, "stop_frequency": 1000000.0}Set 
+{"averaging_cycles": 1, "averaging_time": 5e-05, "estimated_sweep_time": 0.0515560598042882, "linear_scale": true, "num_points": 512, "settling_cycles": 1, "settling_time": 5e-05, "start_frequency": 500000.0, "stop_frequency": 1000000.0}Set 
+{"averaging_cycles": 1, "averaging_time": 5e-05, "estimated_sweep_time": 0.0515560598042882, "linear_scale": true, "num_points": 512, "settling_cycles": 1, "settling_time": 5e-05, "start_frequency": 500000.0, "stop_frequency": 1000000.0}Set 
+{"averaging_cycles": 1, "averaging_time": 5e-05, "estimated_sweep_time": 0.0515560598042882, "linear_scale": true, "num_points": 512, "settling_cycles": 1, "settling_time": 5e-05, "start_frequency": 500000.0, "stop_frequency": 1000000.0}Set 
+Read 
+{"averaging_cycles": 1, "averaging_time": 5e-05, "estimated_sweep_time": 0.0515560598042882, "linear_scale": true, "num_points": 512, "settling_cycles": 1, "settling_time": 5e-05, "start_frequency": 500000.0, "stop_frequency": 1000000.0}Read 
+{"averaging_cycles": 1, "averaging_time": 5e-05, "estimated_sweep_time": 0.05125779382238783, "linear_scale": true, "num_points": 512, "settling_cycles": 1, "settling_time": 5e-05, "start_frequency": 10490000.0, "stop_frequency": 1000000.0}Set 
+Read 
+{"averaging_cycles": 1, "averaging_time": 5e-05, "estimated_sweep_time": 0.05125779382238783, "linear_scale": true, "num_points": 512, "settling_cycles": 1, "settling_time": 5e-05, "start_frequency": 10490000.0, "stop_frequency": 1000000.0}Read 
+{"averaging_cycles": 1, "averaging_time": 5e-05, "estimated_sweep_time": 0.051238617080036096, "linear_scale": true, "num_points": 512, "settling_cycles": 1, "settling_time": 5e-05, "start_frequency": 20480000.0, "stop_frequency": 1000000.0}Set 
+Read 
+{"averaging_cycles": 1, "averaging_time": 5e-05, "estimated_sweep_time": 0.051238617080036096, "linear_scale": true, "num_points": 512, "settling_cycles": 1, "settling_time": 5e-05, "start_frequency": 20480000.0, "stop_frequency": 1000000.0}Read 
+{"averaging_cycles": 1, "averaging_time": 5e-05, "estimated_sweep_time": 0.05122877340081584, "linear_scale": true, "num_points": 512, "settling_cycles": 1, "settling_time": 5e-05, "start_frequency": 30470000.0, "stop_frequency": 1000000.0}Set 
+Read 
+{"averaging_cycles": 1, "averaging_time": 5e-05, "estimated_sweep_time": 0.05122877340081584, "linear_scale": true, "num_points": 512, "settling_cycles": 1, "settling_time": 5e-05, "start_frequency": 30470000.0, "stop_frequency": 1000000.0}Read 
+{"averaging_cycles": 1, "averaging_time": 5e-05, "estimated_sweep_time": 0.05122335696393053, "linear_scale": true, "num_points": 512, "settling_cycles": 1, "settling_time": 5e-05, "start_frequency": 40460000.0, "stop_frequency": 1000000.0}Set 
+Read 
+{"averaging_cycles": 1, "averaging_time": 5e-05, "estimated_sweep_time": 0.05122335696393053, "linear_scale": true, "num_points": 512, "settling_cycles": 1, "settling_time": 5e-05, "start_frequency": 40460000.0, "stop_frequency": 1000000.0}Read 
+{"averaging_cycles": 1, "averaging_time": 5e-05, "estimated_sweep_time": 0.05121978908321252, "linear_scale": true, "num_points": 512, "settling_cycles": 1, "settling_time": 5e-05, "start_frequency": 50450000.0, "stop_frequency": 1000000.0}Set 
+Read 
+{"averaging_cycles": 1, "averaging_time": 5e-05, "estimated_sweep_time": 0.05121978908321252, "linear_scale": true, "num_points": 512, "settling_cycles": 1, "settling_time": 5e-05, "start_frequency": 50450000.0, "stop_frequency": 1000000.0}Read 
+{"averaging_cycles": 1, "averaging_time": 5e-05, "estimated_sweep_time": 0.05121713199376252, "linear_scale": true, "num_points": 512, "settling_cycles": 1, "settling_time": 5e-05, "start_frequency": 60440000.0, "stop_frequency": 1000000.0}Set 
+Read 
+{"averaging_cycles": 1, "averaging_time": 5e-05, "estimated_sweep_time": 0.05121713199376252, "linear_scale": true, "num_points": 512, "settling_cycles": 1, "settling_time": 5e-05, "start_frequency": 60440000.0, "stop_frequency": 1000000.0}Read 
+{"averaging_cycles": 1, "averaging_time": 5e-05, "estimated_sweep_time": 0.05121500543733564, "linear_scale": true, "num_points": 512, "settling_cycles": 1, "settling_time": 5e-05, "start_frequency": 70430000.0, "stop_frequency": 1000000.0}Set 
+Read 
+{"averaging_cycles": 1, "averaging_time": 5e-05, "estimated_sweep_time": 0.05121500543733564, "linear_scale": true, "num_points": 512, "settling_cycles": 1, "settling_time": 5e-05, "start_frequency": 70430000.0, "stop_frequency": 1000000.0}Read 
+{"averaging_cycles": 1, "averaging_time": 5e-05, "estimated_sweep_time": 0.051213806957163016, "linear_scale": true, "num_points": 512, "settling_cycles": 1, "settling_time": 5e-05, "start_frequency": 80420000.0, "stop_frequency": 1000000.0}Set 
+Read 
+{"averaging_cycles": 1, "averaging_time": 5e-05, "estimated_sweep_time": 0.051213806957163016, "linear_scale": true, "num_points": 512, "settling_cycles": 1, "settling_time": 5e-05, "start_frequency": 80420000.0, "stop_frequency": 1000000.0}Read 
+{"averaging_cycles": 1, "averaging_time": 5e-05, "estimated_sweep_time": 0.05121145976661776, "linear_scale": true, "num_points": 512, "settling_cycles": 1, "settling_time": 5e-05, "start_frequency": 90410000.0, "stop_frequency": 1000000.0}Set 
+Read 
+{"averaging_cycles": 1, "averaging_time": 5e-05, "estimated_sweep_time": 0.05121145976661776, "linear_scale": true, "num_points": 512, "settling_cycles": 1, "settling_time": 5e-05, "start_frequency": 90410000.0, "stop_frequency": 1000000.0}Read 
+{"averaging_cycles": 1, "averaging_time": 5e-05, "estimated_sweep_time": 0.051211292351404133, "linear_scale": true, "num_points": 512, "settling_cycles": 1, "settling_time": 5e-05, "start_frequency": 100400000.0, "stop_frequency": 1000000.0}Set 
+Read 
+{"averaging_cycles": 1, "averaging_time": 5e-05, "estimated_sweep_time": 0.051211292351404133, "linear_scale": true, "num_points": 512, "settling_cycles": 1, "settling_time": 5e-05, "start_frequency": 100400000.0, "stop_frequency": 1000000.0}Read 
+{"averaging_cycles": 1, "averaging_time": 5e-05, "estimated_sweep_time": 0.05121067516132692, "linear_scale": true, "num_points": 512, "settling_cycles": 1, "settling_time": 5e-05, "start_frequency": 110390000.0, "stop_frequency": 1000000.0}Set 
+Read 
+{"averaging_cycles": 1, "averaging_time": 5e-05, "estimated_sweep_time": 0.05121067516132692, "linear_scale": true, "num_points": 512, "settling_cycles": 1, "settling_time": 5e-05, "start_frequency": 110390000.0, "stop_frequency": 1000000.0}Read 
+{"averaging_cycles": 1, "averaging_time": 5e-05, "estimated_sweep_time": 0.051210221474837996, "linear_scale": true, "num_points": 512, "settling_cycles": 1, "settling_time": 5e-05, "start_frequency": 120380000.0, "stop_frequency": 1000000.0}Set 
+Read 
+{"averaging_cycles": 1, "averaging_time": 5e-05, "estimated_sweep_time": 0.051210221474837996, "linear_scale": true, "num_points": 512, "settling_cycles": 1, "settling_time": 5e-05, "start_frequency": 120380000.0, "stop_frequency": 1000000.0}Read 
+{"averaging_cycles": 1, "averaging_time": 5e-05, "estimated_sweep_time": 0.05120875403382796, "linear_scale": true, "num_points": 512, "settling_cycles": 1, "settling_time": 5e-05, "start_frequency": 130370000.0, "stop_frequency": 1000000.0}Set 
+Read 
+{"averaging_cycles": 1, "averaging_time": 5e-05, "estimated_sweep_time": 0.05120875403382796, "linear_scale": true, "num_points": 512, "settling_cycles": 1, "settling_time": 5e-05, "start_frequency": 130370000.0, "stop_frequency": 1000000.0}Read 
+{"averaging_cycles": 1, "averaging_time": 5e-05, "estimated_sweep_time": 0.0512084706454026, "linear_scale": true, "num_points": 512, "settling_cycles": 1, "settling_time": 5e-05, "start_frequency": 140360000.0, "stop_frequency": 1000000.0}Set 
+Read 
+{"averaging_cycles": 1, "averaging_time": 5e-05, "estimated_sweep_time": 0.0512084706454026, "linear_scale": true, "num_points": 512, "settling_cycles": 1, "settling_time": 5e-05, "start_frequency": 140360000.0, "stop_frequency": 1000000.0}Read 
+{"averaging_cycles": 1, "averaging_time": 5e-05, "estimated_sweep_time": 0.05120832287391292, "linear_scale": true, "num_points": 512, "settling_cycles": 1, "settling_time": 5e-05, "start_frequency": 150350000.0, "stop_frequency": 1000000.0}Set 
+Read 
+{"averaging_cycles": 1, "averaging_time": 5e-05, "estimated_sweep_time": 0.05120832287391292, "linear_scale": true, "num_points": 512, "settling_cycles": 1, "settling_time": 5e-05, "start_frequency": 150350000.0, "stop_frequency": 1000000.0}Read 
+{"averaging_cycles": 1, "averaging_time": 5e-05, "estimated_sweep_time": 0.051207955371379774, "linear_scale": true, "num_points": 512, "settling_cycles": 1, "settling_time": 5e-05, "start_frequency": 160340000.0, "stop_frequency": 1000000.0}Set 
+Read 
+{"averaging_cycles": 1, "averaging_time": 5e-05, "estimated_sweep_time": 0.051207955371379774, "linear_scale": true, "num_points": 512, "settling_cycles": 1, "settling_time": 5e-05, "start_frequency": 160340000.0, "stop_frequency": 1000000.0}Read 
+{"averaging_cycles": 1, "averaging_time": 5e-05, "estimated_sweep_time": 0.05120742975235853, "linear_scale": true, "num_points": 512, "settling_cycles": 1, "settling_time": 5e-05, "start_frequency": 170330000.0, "stop_frequency": 1000000.0}Set 
+Read 
+{"averaging_cycles": 1, "averaging_time": 5e-05, "estimated_sweep_time": 0.05120742975235853, "linear_scale": true, "num_points": 512, "settling_cycles": 1, "settling_time": 5e-05, "start_frequency": 170330000.0, "stop_frequency": 1000000.0}Read 
+{"averaging_cycles": 1, "averaging_time": 5e-05, "estimated_sweep_time": 0.051207493242350306, "linear_scale": true, "num_points": 512, "settling_cycles": 1, "settling_time": 5e-05, "start_frequency": 180320000.0, "stop_frequency": 1000000.0}Set 
+Read 
+{"averaging_cycles": 1, "averaging_time": 5e-05, "estimated_sweep_time": 0.051207493242350306, "linear_scale": true, "num_points": 512, "settling_cycles": 1, "settling_time": 5e-05, "start_frequency": 180320000.0, "stop_frequency": 1000000.0}Read 
+{"averaging_cycles": 1, "averaging_time": 5e-05, "estimated_sweep_time": 0.05120716716918924, "linear_scale": true, "num_points": 512, "settling_cycles": 1, "settling_time": 5e-05, "start_frequency": 190310000.0, "stop_frequency": 1000000.0}Set 
+Read 
+{"averaging_cycles": 1, "averaging_time": 5e-05, "estimated_sweep_time": 0.05120716716918924, "linear_scale": true, "num_points": 512, "settling_cycles": 1, "settling_time": 5e-05, "start_frequency": 190310000.0, "stop_frequency": 1000000.0}Read 
+{"averaging_cycles": 1, "averaging_time": 5e-05, "estimated_sweep_time": 0.05120849554295373, "linear_scale": true, "num_points": 512, "settling_cycles": 1, "settling_time": 5e-05, "start_frequency": 200300000.0, "stop_frequency": 1000000.0}Set 
+Read 
+{"averaging_cycles": 1, "averaging_time": 5e-05, "estimated_sweep_time": 0.05120849554295373, "linear_scale": true, "num_points": 512, "settling_cycles": 1, "settling_time": 5e-05, "start_frequency": 200300000.0, "stop_frequency": 1000000.0}Read 
+{"averaging_cycles": 1, "averaging_time": 5e-05, "estimated_sweep_time": 0.05120596581844901, "linear_scale": true, "num_points": 512, "settling_cycles": 1, "settling_time": 5e-05, "start_frequency": 210290000.0, "stop_frequency": 1000000.0}Set 
+Read 
+{"averaging_cycles": 1, "averaging_time": 5e-05, "estimated_sweep_time": 0.05120596581844901, "linear_scale": true, "num_points": 512, "settling_cycles": 1, "settling_time": 5e-05, "start_frequency": 210290000.0, "stop_frequency": 1000000.0}Read 
+{"averaging_cycles": 1, "averaging_time": 5e-05, "estimated_sweep_time": 0.05120595785134525, "linear_scale": true, "num_points": 512, "settling_cycles": 1, "settling_time": 5e-05, "start_frequency": 220280000.0, "stop_frequency": 1000000.0}Set 
+Read 
+{"averaging_cycles": 1, "averaging_time": 5e-05, "estimated_sweep_time": 0.05120595785134525, "linear_scale": true, "num_points": 512, "settling_cycles": 1, "settling_time": 5e-05, "start_frequency": 220280000.0, "stop_frequency": 1000000.0}Read 
+{"averaging_cycles": 1, "averaging_time": 5e-05, "estimated_sweep_time": 0.05120585189199237, "linear_scale": true, "num_points": 512, "settling_cycles": 1, "settling_time": 5e-05, "start_frequency": 230270000.0, "stop_frequency": 1000000.0}Set 
+Read 
+{"averaging_cycles": 1, "averaging_time": 5e-05, "estimated_sweep_time": 0.05120585189199237, "linear_scale": true, "num_points": 512, "settling_cycles": 1, "settling_time": 5e-05, "start_frequency": 230270000.0, "stop_frequency": 1000000.0}Read 
+{"averaging_cycles": 1, "averaging_time": 5e-05, "estimated_sweep_time": 0.05120559896055859, "linear_scale": true, "num_points": 512, "settling_cycles": 1, "settling_time": 5e-05, "start_frequency": 240260000.0, "stop_frequency": 1000000.0}Set 
+Read 
+{"averaging_cycles": 1, "averaging_time": 5e-05, "estimated_sweep_time": 0.05120559896055859, "linear_scale": true, "num_points": 512, "settling_cycles": 1, "settling_time": 5e-05, "start_frequency": 240260000.0, "stop_frequency": 1000000.0}Read 
+{"averaging_cycles": 1, "averaging_time": 5e-05, "estimated_sweep_time": 0.05120537539408911, "linear_scale": true, "num_points": 512, "settling_cycles": 1, "settling_time": 5e-05, "start_frequency": 250250000.0, "stop_frequency": 1000000.0}Set 
+Read 
+{"averaging_cycles": 1, "averaging_time": 5e-05, "estimated_sweep_time": 0.05120537539408911, "linear_scale": true, "num_points": 512, "settling_cycles": 1, "settling_time": 5e-05, "start_frequency": 250250000.0, "stop_frequency": 1000000.0}Read 
+{"averaging_cycles": 1, "averaging_time": 5e-05, "estimated_sweep_time": 0.051205371464064606, "linear_scale": true, "num_points": 512, "settling_cycles": 1, "settling_time": 5e-05, "start_frequency": 260240000.0, "stop_frequency": 1000000.0}Set 
+Read 
+{"averaging_cycles": 1, "averaging_time": 5e-05, "estimated_sweep_time": 0.051205371464064606, "linear_scale": true, "num_points": 512, "settling_cycles": 1, "settling_time": 5e-05, "start_frequency": 260240000.0, "stop_frequency": 1000000.0}Read 
+{"averaging_cycles": 1, "averaging_time": 5e-05, "estimated_sweep_time": 0.05120539441174673, "linear_scale": true, "num_points": 512, "settling_cycles": 1, "settling_time": 5e-05, "start_frequency": 270230000.0, "stop_frequency": 1000000.0}Set 
+Read 
+{"averaging_cycles": 1, "averaging_time": 5e-05, "estimated_sweep_time": 0.05120539441174673, "linear_scale": true, "num_points": 512, "settling_cycles": 1, "settling_time": 5e-05, "start_frequency": 270230000.0, "stop_frequency": 1000000.0}Read 
+{"averaging_cycles": 1, "averaging_time": 5e-05, "estimated_sweep_time": 0.051204776368504665, "linear_scale": true, "num_points": 512, "settling_cycles": 1, "settling_time": 5e-05, "start_frequency": 280220000.0, "stop_frequency": 1000000.0}Set 
+Read 
+{"averaging_cycles": 1, "averaging_time": 5e-05, "estimated_sweep_time": 0.051204776368504665, "linear_scale": true, "num_points": 512, "settling_cycles": 1, "settling_time": 5e-05, "start_frequency": 280220000.0, "stop_frequency": 1000000.0}Read 
+{"averaging_cycles": 1, "averaging_time": 5e-05, "estimated_sweep_time": 0.05120475820892828, "linear_scale": true, "num_points": 512, "settling_cycles": 1, "settling_time": 5e-05, "start_frequency": 290210000.0, "stop_frequency": 1000000.0}Set 
+Read 
+{"averaging_cycles": 1, "averaging_time": 5e-05, "estimated_sweep_time": 0.05120475820892828, "linear_scale": true, "num_points": 512, "settling_cycles": 1, "settling_time": 5e-05, "start_frequency": 290210000.0, "stop_frequency": 1000000.0}Read 
+{"averaging_cycles": 1, "averaging_time": 5e-05, "estimated_sweep_time": 0.051204895081477325, "linear_scale": true, "num_points": 512, "settling_cycles": 1, "settling_time": 5e-05, "start_frequency": 300000000.0, "stop_frequency": 1000000.0}Set 
+Read 
+{"averaging_cycles": 1, "averaging_time": 5e-05, "estimated_sweep_time": 0.051204895081477325, "linear_scale": true, "num_points": 512, "settling_cycles": 1, "settling_time": 5e-05, "start_frequency": 300000000.0, "stop_frequency": 1000000.0}Read 
+{"averaging_cycles": 1, "averaging_time": 5e-05, "estimated_sweep_time": 0.051204895081477325, "linear_scale": true, "num_points": 512, "settling_cycles": 1, "settling_time": 5e-05, "start_frequency": 300000000.0, "stop_frequency": 1000000.0}Set 
+Read 
+{"averaging_cycles": 1, "averaging_time": 5e-05, "estimated_sweep_time": 0.051204895081477325, "linear_scale": true, "num_points": 512, "settling_cycles": 1, "settling_time": 5e-05, "start_frequency": 300000000.0, "stop_frequency": 1000000.0}Read 
+{"averaging_cycles": 1, "averaging_time": 5e-05, "estimated_sweep_time": 0.051204895081477325, "linear_scale": true, "num_points": 512, "settling_cycles": 1, "settling_time": 5e-05, "start_frequency": 300000000.0, "stop_frequency": 1000000.0}Set 
+Read 
+{"averaging_cycles": 1, "averaging_time": 5e-05, "estimated_sweep_time": 0.051204895081477325, "linear_scale": true, "num_points": 512, "settling_cycles": 1, "settling_time": 5e-05, "start_frequency": 300000000.0, "stop_frequency": 1000000.0}Read 
+{"averaging_cycles": 1, "averaging_time": 5e-05, "estimated_sweep_time": 0.051204895081477325, "linear_scale": true, "num_points": 512, "settling_cycles": 1, "settling_time": 5e-05, "start_frequency": 300000000.0, "stop_frequency": 1000000.0}Set 
+Read 
+{"averaging_cycles": 1, "averaging_time": 5e-05, "estimated_sweep_time": 0.051204895081477325, "linear_scale": true, "num_points": 512, "settling_cycles": 1, "settling_time": 5e-05, "start_frequency": 300000000.0, "stop_frequency": 1000000.0}Read 
+{"averaging_cycles": 1, "averaging_time": 5e-05, "estimated_sweep_time": 0.051204895081477325, "linear_scale": true, "num_points": 512, "settling_cycles": 1, "settling_time": 5e-05, "start_frequency": 300000000.0, "stop_frequency": 1000000.0}Set 
+Read 
+{"averaging_cycles": 1, "averaging_time": 5e-05, "estimated_sweep_time": 0.051204895081477325, "linear_scale": true, "num_points": 512, "settling_cycles": 1, "settling_time": 5e-05, "start_frequency": 300000000.0, "stop_frequency": 1000000.0}Read 
+{"averaging_cycles": 1, "averaging_time": 5e-05, "estimated_sweep_time": 0.051204895081477325, "linear_scale": true, "num_points": 512, "settling_cycles": 1, "settling_time": 5e-05, "start_frequency": 300000000.0, "stop_frequency": 1000000.0}Set 
+Read 
+{"averaging_cycles": 1, "averaging_time": 5e-05, "estimated_sweep_time": 0.051204895081477325, "linear_scale": true, "num_points": 512, "settling_cycles": 1, "settling_time": 5e-05, "start_frequency": 300000000.0, "stop_frequency": 1000000.0}Read 
+{"averaging_cycles": 1, "averaging_time": 5e-05, "estimated_sweep_time": 0.051204895081477325, "linear_scale": true, "num_points": 512, "settling_cycles": 1, "settling_time": 5e-05, "start_frequency": 300000000.0, "stop_frequency": 1000000.0}Set 
+Read 
+{"averaging_cycles": 1, "averaging_time": 5e-05, "estimated_sweep_time": 0.051204895081477325, "linear_scale": true, "num_points": 512, "settling_cycles": 1, "settling_time": 5e-05, "start_frequency": 300000000.0, "stop_frequency": 1000000.0}Read 
+{"averaging_cycles": 1, "averaging_time": 5e-05, "estimated_sweep_time": 0.051204895081477325, "linear_scale": true, "num_points": 512, "settling_cycles": 1, "settling_time": 5e-05, "start_frequency": 300000000.0, "stop_frequency": 1000000.0}Set 
+Read 
+{"averaging_cycles": 1, "averaging_time": 5e-05, "estimated_sweep_time": 0.051204895081477325, "linear_scale": true, "num_points": 512, "settling_cycles": 1, "settling_time": 5e-05, "start_frequency": 300000000.0, "stop_frequency": 1000000.0}Read 
+{"averaging_cycles": 1, "averaging_time": 5e-05, "estimated_sweep_time": 0.051204895081477325, "linear_scale": true, "num_points": 512, "settling_cycles": 1, "settling_time": 5e-05, "start_frequency": 300000000.0, "stop_frequency": 1000000.0}Set 
+Read 
+{"averaging_cycles": 1, "averaging_time": 5e-05, "estimated_sweep_time": 0.051204895081477325, "linear_scale": true, "num_points": 512, "settling_cycles": 1, "settling_time": 5e-05, "start_frequency": 300000000.0, "stop_frequency": 1000000.0}Read 
+{"averaging_cycles": 1, "averaging_time": 5e-05, "estimated_sweep_time": 0.051204895081477325, "linear_scale": true, "num_points": 512, "settling_cycles": 1, "settling_time": 5e-05, "start_frequency": 300000000.0, "stop_frequency": 1000000.0}Set 
+Read 
+{"averaging_cycles": 1, "averaging_time": 5e-05, "estimated_sweep_time": 0.051204895081477325, "linear_scale": true, "num_points": 512, "settling_cycles": 1, "settling_time": 5e-05, "start_frequency": 300000000.0, "stop_frequency": 1000000.0}Read 
+{"averaging_cycles": 1, "averaging_time": 5e-05, "estimated_sweep_time": 0.051204895081477325, "linear_scale": true, "num_points": 512, "settling_cycles": 1, "settling_time": 5e-05, "start_frequency": 300000000.0, "stop_frequency": 1000000.0}Set 
+Read 
+{"averaging_cycles": 1, "averaging_time": 5e-05, "estimated_sweep_time": 0.051204895081477325, "linear_scale": true, "num_points": 512, "settling_cycles": 1, "settling_time": 5e-05, "start_frequency": 300000000.0, "stop_frequency": 1000000.0}Read 
+{"averaging_cycles": 1, "averaging_time": 5e-05, "estimated_sweep_time": 0.051204895081477325, "linear_scale": true, "num_points": 512, "settling_cycles": 1, "settling_time": 5e-05, "start_frequency": 300000000.0, "stop_frequency": 1000000.0}Set 
+Read 
+{"averaging_cycles": 1, "averaging_time": 5e-05, "estimated_sweep_time": 0.051204895081477325, "linear_scale": true, "num_points": 512, "settling_cycles": 1, "settling_time": 5e-05, "start_frequency": 300000000.0, "stop_frequency": 1000000.0}Read 
+{"averaging_cycles": 1, "averaging_time": 5e-05, "estimated_sweep_time": 0.051204895081477325, "linear_scale": true, "num_points": 512, "settling_cycles": 1, "settling_time": 5e-05, "start_frequency": 300000000.0, "stop_frequency": 1000000.0}Set 
+Read 
+{"averaging_cycles": 1, "averaging_time": 5e-05, "estimated_sweep_time": 0.051204895081477325, "linear_scale": true, "num_points": 512, "settling_cycles": 1, "settling_time": 5e-05, "start_frequency": 300000000.0, "stop_frequency": 1000000.0}Read 
+{"averaging_cycles": 1, "averaging_time": 5e-05, "estimated_sweep_time": 0.051204895081477325, "linear_scale": true, "num_points": 512, "settling_cycles": 1, "settling_time": 5e-05, "start_frequency": 300000000.0, "stop_frequency": 1000000.0}Set 
+Read 
+{"averaging_cycles": 1, "averaging_time": 5e-05, "estimated_sweep_time": 0.051204895081477325, "linear_scale": true, "num_points": 512, "settling_cycles": 1, "settling_time": 5e-05, "start_frequency": 300000000.0, "stop_frequency": 1000000.0}Read 
+{"averaging_cycles": 1, "averaging_time": 5e-05, "estimated_sweep_time": 0.051204895081477325, "linear_scale": true, "num_points": 512, "settling_cycles": 1, "settling_time": 5e-05, "start_frequency": 300000000.0, "stop_frequency": 1000000.0}Set 
+Read 
+{"averaging_cycles": 1, "averaging_time": 5e-05, "estimated_sweep_time": 0.051204895081477325, "linear_scale": true, "num_points": 512, "settling_cycles": 1, "settling_time": 5e-05, "start_frequency": 300000000.0, "stop_frequency": 1000000.0}Read 
+{"averaging_cycles": 1, "averaging_time": 5e-05, "estimated_sweep_time": 0.051204895081477325, "linear_scale": true, "num_points": 512, "settling_cycles": 1, "settling_time": 5e-05, "start_frequency": 300000000.0, "stop_frequency": 1000000.0}Set 
+Read 
+{"averaging_cycles": 1, "averaging_time": 5e-05, "estimated_sweep_time": 0.051204895081477325, "linear_scale": true, "num_points": 512, "settling_cycles": 1, "settling_time": 5e-05, "start_frequency": 300000000.0, "stop_frequency": 1000000.0}Read 
+{"averaging_cycles": 1, "averaging_time": 5e-05, "estimated_sweep_time": 0.051204895081477325, "linear_scale": true, "num_points": 512, "settling_cycles": 1, "settling_time": 5e-05, "start_frequency": 300000000.0, "stop_frequency": 1000000.0}Set 
+Read 
+{"averaging_cycles": 1, "averaging_time": 5e-05, "estimated_sweep_time": 0.051204895081477325, "linear_scale": true, "num_points": 512, "settling_cycles": 1, "settling_time": 5e-05, "start_frequency": 300000000.0, "stop_frequency": 1000000.0}Read 
+{"averaging_cycles": 1, "averaging_time": 5e-05, "estimated_sweep_time": 0.051204895081477325, "linear_scale": true, "num_points": 512, "settling_cycles": 1, "settling_time": 5e-05, "start_frequency": 300000000.0, "stop_frequency": 1000000.0}Set 
+Read 
+{"averaging_cycles": 1, "averaging_time": 5e-05, "estimated_sweep_time": 0.051204895081477325, "linear_scale": true, "num_points": 512, "settling_cycles": 1, "settling_time": 5e-05, "start_frequency": 300000000.0, "stop_frequency": 1000000.0}Read 
+{"averaging_cycles": 1, "averaging_time": 5e-05, "estimated_sweep_time": 0.051204895081477325, "linear_scale": true, "num_points": 512, "settling_cycles": 1, "settling_time": 5e-05, "start_frequency": 300000000.0, "stop_frequency": 1000000.0}Set 
+Read 
+{"averaging_cycles": 1, "averaging_time": 5e-05, "estimated_sweep_time": 0.051204895081477325, "linear_scale": true, "num_points": 512, "settling_cycles": 1, "settling_time": 5e-05, "start_frequency": 300000000.0, "stop_frequency": 1000000.0}Read 
+{"averaging_cycles": 1, "averaging_time": 5e-05, "estimated_sweep_time": 0.051204895081477325, "linear_scale": true, "num_points": 512, "settling_cycles": 1, "settling_time": 5e-05, "start_frequency": 300000000.0, "stop_frequency": 1000000.0}Set 
+Read 
+{"averaging_cycles": 1, "averaging_time": 5e-05, "estimated_sweep_time": 0.051204895081477325, "linear_scale": true, "num_points": 512, "settling_cycles": 1, "settling_time": 5e-05, "start_frequency": 300000000.0, "stop_frequency": 1000000.0}Read 
+{"averaging_cycles": 1, "averaging_time": 5e-05, "estimated_sweep_time": 0.051204895081477325, "linear_scale": true, "num_points": 512, "settling_cycles": 1, "settling_time": 5e-05, "start_frequency": 300000000.0, "stop_frequency": 1000000.0}Set 
+Read 
+{"averaging_cycles": 1, "averaging_time": 5e-05, "estimated_sweep_time": 0.051204895081477325, "linear_scale": true, "num_points": 512, "settling_cycles": 1, "settling_time": 5e-05, "start_frequency": 300000000.0, "stop_frequency": 1000000.0}Read 
+{"averaging_cycles": 1, "averaging_time": 5e-05, "estimated_sweep_time": 0.0515560598042882, "linear_scale": true, "num_points": 512, "settling_cycles": 1, "settling_time": 5e-05, "start_frequency": 500000.0, "stop_frequency": 1000000.0}Set 
+{"averaging_cycles": 1, "averaging_time": 5e-05, "estimated_sweep_time": 0.05122275039797883, "linear_scale": true, "num_points": 512, "settling_cycles": 1, "settling_time": 5e-05, "start_frequency": 500000.0, "stop_frequency": 50000000.0}Set 
+{"averaging_cycles": 1, "averaging_time": 5e-05, "estimated_sweep_time": 0.05122275039797883, "linear_scale": true, "num_points": 512, "settling_cycles": 1, "settling_time": 5e-05, "start_frequency": 500000.0, "stop_frequency": 50000000.0}Set 
+{"averaging_cycles": 1, "averaging_time": 5e-05, "estimated_sweep_time": 0.05122275039797883, "linear_scale": true, "num_points": 512, "settling_cycles": 1, "settling_time": 5e-05, "start_frequency": 500000.0, "stop_frequency": 50000000.0}Set 
+{"averaging_cycles": 1, "averaging_time": 5e-05, "estimated_sweep_time": 0.05122275039797883, "linear_scale": true, "num_points": 512, "settling_cycles": 1, "settling_time": 5e-05, "start_frequency": 500000.0, "stop_frequency": 50000000.0}Set 
+{"averaging_cycles": 1, "averaging_time": 5e-05, "estimated_sweep_time": 0.05122275039797883, "linear_scale": true, "num_points": 512, "settling_cycles": 1, "settling_time": 5e-05, "start_frequency": 500000.0, "stop_frequency": 50000000.0}Set 
+{"averaging_cycles": 1, "averaging_time": 5e-05, "estimated_sweep_time": 0.05122275039797883, "linear_scale": true, "num_points": 512, "settling_cycles": 1, "settling_time": 5e-05, "start_frequency": 500000.0, "stop_frequency": 50000000.0}Set 
+{"averaging_cycles": 1, "averaging_time": 5e-05, "estimated_sweep_time": 0.05122275039797883, "linear_scale": true, "num_points": 512, "settling_cycles": 1, "settling_time": 5e-05, "start_frequency": 500000.0, "stop_frequency": 50000000.0}Set 
+{"averaging_cycles": 1, "averaging_time": 5e-05, "estimated_sweep_time": 0.05122275039797883, "linear_scale": true, "num_points": 512, "settling_cycles": 1, "settling_time": 5e-05, "start_frequency": 500000.0, "stop_frequency": 50000000.0}Set 
+{"averaging_cycles": 1, "averaging_time": 5e-05, "estimated_sweep_time": 0.05122275039797883, "linear_scale": true, "num_points": 512, "settling_cycles": 1, "settling_time": 5e-05, "start_frequency": 500000.0, "stop_frequency": 50000000.0}Set 
+{"averaging_cycles": 1, "averaging_time": 5e-05, "estimated_sweep_time": 0.05122275039797883, "linear_scale": true, "num_points": 512, "settling_cycles": 1, "settling_time": 5e-05, "start_frequency": 500000.0, "stop_frequency": 50000000.0}Set 
+Read 
+{"averaging_cycles": 1, "averaging_time": 5e-05, "estimated_sweep_time": 0.05122275039797883, "linear_scale": true, "num_points": 512, "settling_cycles": 1, "settling_time": 5e-05, "start_frequency": 500000.0, "stop_frequency": 50000000.0}Read 
+{"averaging_cycles": 1, "averaging_time": 5e-05, "estimated_sweep_time": 0.05121021319568354, "linear_scale": true, "num_points": 512, "settling_cycles": 1, "settling_time": 5e-05, "start_frequency": 10490000.0, "stop_frequency": 50000000.0}Set 
+Read 
+{"averaging_cycles": 1, "averaging_time": 5e-05, "estimated_sweep_time": 0.05121021319568354, "linear_scale": true, "num_points": 512, "settling_cycles": 1, "settling_time": 5e-05, "start_frequency": 10490000.0, "stop_frequency": 50000000.0}Read 
+{"averaging_cycles": 1, "averaging_time": 5e-05, "estimated_sweep_time": 0.051207653817060814, "linear_scale": true, "num_points": 512, "settling_cycles": 1, "settling_time": 5e-05, "start_frequency": 20480000.0, "stop_frequency": 50000000.0}Set 
+Read 
+{"averaging_cycles": 1, "averaging_time": 5e-05, "estimated_sweep_time": 0.051207653817060814, "linear_scale": true, "num_points": 512, "settling_cycles": 1, "settling_time": 5e-05, "start_frequency": 20480000.0, "stop_frequency": 50000000.0}Read 
+{"averaging_cycles": 1, "averaging_time": 5e-05, "estimated_sweep_time": 0.051206566753040736, "linear_scale": true, "num_points": 512, "settling_cycles": 1, "settling_time": 5e-05, "start_frequency": 30470000.0, "stop_frequency": 50000000.0}Set 
+Read 
+{"averaging_cycles": 1, "averaging_time": 5e-05, "estimated_sweep_time": 0.051206566753040736, "linear_scale": true, "num_points": 512, "settling_cycles": 1, "settling_time": 5e-05, "start_frequency": 30470000.0, "stop_frequency": 50000000.0}Read 
+{"averaging_cycles": 1, "averaging_time": 5e-05, "estimated_sweep_time": 0.05120568620254644, "linear_scale": true, "num_points": 512, "settling_cycles": 1, "settling_time": 5e-05, "start_frequency": 40460000.0, "stop_frequency": 50000000.0}Set 
+Read 
+{"averaging_cycles": 1, "averaging_time": 5e-05, "estimated_sweep_time": 0.05120568620254644, "linear_scale": true, "num_points": 512, "settling_cycles": 1, "settling_time": 5e-05, "start_frequency": 40460000.0, "stop_frequency": 50000000.0}Read 
+{"averaging_cycles": 1, "averaging_time": 5e-05, "estimated_sweep_time": 0.05120515683348718, "linear_scale": true, "num_points": 512, "settling_cycles": 1, "settling_time": 5e-05, "start_frequency": 50450000.0, "stop_frequency": 50000000.0}Set 
+Read 
+{"averaging_cycles": 1, "averaging_time": 5e-05, "estimated_sweep_time": 0.05120515683348718, "linear_scale": true, "num_points": 512, "settling_cycles": 1, "settling_time": 5e-05, "start_frequency": 50450000.0, "stop_frequency": 50000000.0}Read 
+{"averaging_cycles": 1, "averaging_time": 5e-05, "estimated_sweep_time": 0.05120466150941231, "linear_scale": true, "num_points": 512, "settling_cycles": 1, "settling_time": 5e-05, "start_frequency": 60440000.0, "stop_frequency": 50000000.0}Set 
+Read 
+{"averaging_cycles": 1, "averaging_time": 5e-05, "estimated_sweep_time": 0.05120466150941231, "linear_scale": true, "num_points": 512, "settling_cycles": 1, "settling_time": 5e-05, "start_frequency": 60440000.0, "stop_frequency": 50000000.0}Read 
+{"averaging_cycles": 1, "averaging_time": 5e-05, "estimated_sweep_time": 0.05120202374009393, "linear_scale": true, "num_points": 512, "settling_cycles": 1, "settling_time": 5e-05, "start_frequency": 70430000.0, "stop_frequency": 50000000.0}Set 
+Read 
+{"averaging_cycles": 1, "averaging_time": 5e-05, "estimated_sweep_time": 0.05120202374009393, "linear_scale": true, "num_points": 512, "settling_cycles": 1, "settling_time": 5e-05, "start_frequency": 70430000.0, "stop_frequency": 50000000.0}Read 
+{"averaging_cycles": 1, "averaging_time": 5e-05, "estimated_sweep_time": 0.051203971047629526, "linear_scale": true, "num_points": 512, "settling_cycles": 1, "settling_time": 5e-05, "start_frequency": 80420000.0, "stop_frequency": 50000000.0}Set 
+Read 
+{"averaging_cycles": 1, "averaging_time": 5e-05, "estimated_sweep_time": 0.051203971047629526, "linear_scale": true, "num_points": 512, "settling_cycles": 1, "settling_time": 5e-05, "start_frequency": 80420000.0, "stop_frequency": 50000000.0}Read 
+{"averaging_cycles": 1, "averaging_time": 5e-05, "estimated_sweep_time": 0.051203683794338956, "linear_scale": true, "num_points": 512, "settling_cycles": 1, "settling_time": 5e-05, "start_frequency": 90410000.0, "stop_frequency": 50000000.0}Set 
+Read 
+{"averaging_cycles": 1, "averaging_time": 5e-05, "estimated_sweep_time": 0.051203683794338956, "linear_scale": true, "num_points": 512, "settling_cycles": 1, "settling_time": 5e-05, "start_frequency": 90410000.0, "stop_frequency": 50000000.0}Read 
+{"averaging_cycles": 1, "averaging_time": 5e-05, "estimated_sweep_time": 0.05120348580304098, "linear_scale": true, "num_points": 512, "settling_cycles": 1, "settling_time": 5e-05, "start_frequency": 100400000.0, "stop_frequency": 50000000.0}Set 
+Read 
+{"averaging_cycles": 1, "averaging_time": 5e-05, "estimated_sweep_time": 0.05120348580304098, "linear_scale": true, "num_points": 512, "settling_cycles": 1, "settling_time": 5e-05, "start_frequency": 100400000.0, "stop_frequency": 50000000.0}Read 
+{"averaging_cycles": 1, "averaging_time": 5e-05, "estimated_sweep_time": 0.05120316308927286, "linear_scale": true, "num_points": 512, "settling_cycles": 1, "settling_time": 5e-05, "start_frequency": 110390000.0, "stop_frequency": 50000000.0}Set 
+Read 
+{"averaging_cycles": 1, "averaging_time": 5e-05, "estimated_sweep_time": 0.05120316308927286, "linear_scale": true, "num_points": 512, "settling_cycles": 1, "settling_time": 5e-05, "start_frequency": 110390000.0, "stop_frequency": 50000000.0}Read 
+{"averaging_cycles": 1, "averaging_time": 5e-05, "estimated_sweep_time": 0.05120318424094784, "linear_scale": true, "num_points": 512, "settling_cycles": 1, "settling_time": 5e-05, "start_frequency": 120380000.0, "stop_frequency": 50000000.0}Set 
+Read 
+{"averaging_cycles": 1, "averaging_time": 5e-05, "estimated_sweep_time": 0.05120318424094784, "linear_scale": true, "num_points": 512, "settling_cycles": 1, "settling_time": 5e-05, "start_frequency": 120380000.0, "stop_frequency": 50000000.0}Read 
+{"averaging_cycles": 1, "averaging_time": 5e-05, "estimated_sweep_time": 0.05120302753715219, "linear_scale": true, "num_points": 512, "settling_cycles": 1, "settling_time": 5e-05, "start_frequency": 130370000.0, "stop_frequency": 50000000.0}Set 
+Read 
+{"averaging_cycles": 1, "averaging_time": 5e-05, "estimated_sweep_time": 0.05120302753715219, "linear_scale": true, "num_points": 512, "settling_cycles": 1, "settling_time": 5e-05, "start_frequency": 130370000.0, "stop_frequency": 50000000.0}Read 
+{"averaging_cycles": 1, "averaging_time": 5e-05, "estimated_sweep_time": 0.0512029173092653, "linear_scale": true, "num_points": 512, "settling_cycles": 1, "settling_time": 5e-05, "start_frequency": 140360000.0, "stop_frequency": 50000000.0}Set 
+Read 
+{"averaging_cycles": 1, "averaging_time": 5e-05, "estimated_sweep_time": 0.0512029173092653, "linear_scale": true, "num_points": 512, "settling_cycles": 1, "settling_time": 5e-05, "start_frequency": 140360000.0, "stop_frequency": 50000000.0}Read 
+{"averaging_cycles": 1, "averaging_time": 5e-05, "estimated_sweep_time": 0.05120280980341407, "linear_scale": true, "num_points": 512, "settling_cycles": 1, "settling_time": 5e-05, "start_frequency": 150350000.0, "stop_frequency": 50000000.0}Set 
+Read 
+{"averaging_cycles": 1, "averaging_time": 5e-05, "estimated_sweep_time": 0.05120280980341407, "linear_scale": true, "num_points": 512, "settling_cycles": 1, "settling_time": 5e-05, "start_frequency": 150350000.0, "stop_frequency": 50000000.0}Read 
+{"averaging_cycles": 1, "averaging_time": 5e-05, "estimated_sweep_time": 0.051202687216470234, "linear_scale": true, "num_points": 512, "settling_cycles": 1, "settling_time": 5e-05, "start_frequency": 160340000.0, "stop_frequency": 50000000.0}Set 
+Read 
+{"averaging_cycles": 1, "averaging_time": 5e-05, "estimated_sweep_time": 0.051202687216470234, "linear_scale": true, "num_points": 512, "settling_cycles": 1, "settling_time": 5e-05, "start_frequency": 160340000.0, "stop_frequency": 50000000.0}Read 
+{"averaging_cycles": 1, "averaging_time": 5e-05, "estimated_sweep_time": 0.05120257465842621, "linear_scale": true, "num_points": 512, "settling_cycles": 1, "settling_time": 5e-05, "start_frequency": 170330000.0, "stop_frequency": 50000000.0}Set 
+Read 
+{"averaging_cycles": 1, "averaging_time": 5e-05, "estimated_sweep_time": 0.05120257465842621, "linear_scale": true, "num_points": 512, "settling_cycles": 1, "settling_time": 5e-05, "start_frequency": 170330000.0, "stop_frequency": 50000000.0}Read 
+{"averaging_cycles": 1, "averaging_time": 5e-05, "estimated_sweep_time": 0.05120255783150513, "linear_scale": true, "num_points": 512, "settling_cycles": 1, "settling_time": 5e-05, "start_frequency": 180320000.0, "stop_frequency": 50000000.0}Set 
+Read 
+{"averaging_cycles": 1, "averaging_time": 5e-05, "estimated_sweep_time": 0.05120255783150513, "linear_scale": true, "num_points": 512, "settling_cycles": 1, "settling_time": 5e-05, "start_frequency": 180320000.0, "stop_frequency": 50000000.0}Read 
+{"averaging_cycles": 1, "averaging_time": 5e-05, "estimated_sweep_time": 0.051202423635679215, "linear_scale": true, "num_points": 512, "settling_cycles": 1, "settling_time": 5e-05, "start_frequency": 190310000.0, "stop_frequency": 50000000.0}Set 
+Read 
+{"averaging_cycles": 1, "averaging_time": 5e-05, "estimated_sweep_time": 0.051202423635679215, "linear_scale": true, "num_points": 512, "settling_cycles": 1, "settling_time": 5e-05, "start_frequency": 190310000.0, "stop_frequency": 50000000.0}Read 
+{"averaging_cycles": 1, "averaging_time": 5e-05, "estimated_sweep_time": 0.05120236081423402, "linear_scale": true, "num_points": 512, "settling_cycles": 1, "settling_time": 5e-05, "start_frequency": 200300000.0, "stop_frequency": 50000000.0}Set 
+Read 
+{"averaging_cycles": 1, "averaging_time": 5e-05, "estimated_sweep_time": 0.05120236081423402, "linear_scale": true, "num_points": 512, "settling_cycles": 1, "settling_time": 5e-05, "start_frequency": 200300000.0, "stop_frequency": 50000000.0}Read 
+{"averaging_cycles": 1, "averaging_time": 5e-05, "estimated_sweep_time": 0.0512022777907849, "linear_scale": true, "num_points": 512, "settling_cycles": 1, "settling_time": 5e-05, "start_frequency": 210290000.0, "stop_frequency": 50000000.0}Set 
+Read 
+{"averaging_cycles": 1, "averaging_time": 5e-05, "estimated_sweep_time": 0.0512022777907849, "linear_scale": true, "num_points": 512, "settling_cycles": 1, "settling_time": 5e-05, "start_frequency": 210290000.0, "stop_frequency": 50000000.0}Read 
+{"averaging_cycles": 1, "averaging_time": 5e-05, "estimated_sweep_time": 0.05120219845450769, "linear_scale": true, "num_points": 512, "settling_cycles": 1, "settling_time": 5e-05, "start_frequency": 220280000.0, "stop_frequency": 50000000.0}Set 
+Read 
+{"averaging_cycles": 1, "averaging_time": 5e-05, "estimated_sweep_time": 0.05120219845450769, "linear_scale": true, "num_points": 512, "settling_cycles": 1, "settling_time": 5e-05, "start_frequency": 220280000.0, "stop_frequency": 50000000.0}Read 
+{"averaging_cycles": 1, "averaging_time": 5e-05, "estimated_sweep_time": 0.051202168140003265, "linear_scale": true, "num_points": 512, "settling_cycles": 1, "settling_time": 5e-05, "start_frequency": 230270000.0, "stop_frequency": 50000000.0}Set 
+Read 
+{"averaging_cycles": 1, "averaging_time": 5e-05, "estimated_sweep_time": 0.051202168140003265, "linear_scale": true, "num_points": 512, "settling_cycles": 1, "settling_time": 5e-05, "start_frequency": 230270000.0, "stop_frequency": 50000000.0}Read 
+{"averaging_cycles": 1, "averaging_time": 5e-05, "estimated_sweep_time": 0.05120208643437535, "linear_scale": true, "num_points": 512, "settling_cycles": 1, "settling_time": 5e-05, "start_frequency": 240260000.0, "stop_frequency": 50000000.0}Set 
+Read 
+{"averaging_cycles": 1, "averaging_time": 5e-05, "estimated_sweep_time": 0.05120208643437535, "linear_scale": true, "num_points": 512, "settling_cycles": 1, "settling_time": 5e-05, "start_frequency": 240260000.0, "stop_frequency": 50000000.0}Read 
+{"averaging_cycles": 1, "averaging_time": 5e-05, "estimated_sweep_time": 0.05120204120224916, "linear_scale": true, "num_points": 512, "settling_cycles": 1, "settling_time": 5e-05, "start_frequency": 250250000.0, "stop_frequency": 50000000.0}Set 
+Read 
+{"averaging_cycles": 1, "averaging_time": 5e-05, "estimated_sweep_time": 0.05120204120224916, "linear_scale": true, "num_points": 512, "settling_cycles": 1, "settling_time": 5e-05, "start_frequency": 250250000.0, "stop_frequency": 50000000.0}Read 
+{"averaging_cycles": 1, "averaging_time": 5e-05, "estimated_sweep_time": 0.05120172327089972, "linear_scale": true, "num_points": 512, "settling_cycles": 1, "settling_time": 5e-05, "start_frequency": 260240000.0, "stop_frequency": 50000000.0}Set 
+Read 
+{"averaging_cycles": 1, "averaging_time": 5e-05, "estimated_sweep_time": 0.05120172327089972, "linear_scale": true, "num_points": 512, "settling_cycles": 1, "settling_time": 5e-05, "start_frequency": 260240000.0, "stop_frequency": 50000000.0}Read 
+{"averaging_cycles": 1, "averaging_time": 5e-05, "estimated_sweep_time": 0.05120195337813974, "linear_scale": true, "num_points": 512, "settling_cycles": 1, "settling_time": 5e-05, "start_frequency": 270230000.0, "stop_frequency": 50000000.0}Set 
+Read 
+{"averaging_cycles": 1, "averaging_time": 5e-05, "estimated_sweep_time": 0.05120195337813974, "linear_scale": true, "num_points": 512, "settling_cycles": 1, "settling_time": 5e-05, "start_frequency": 270230000.0, "stop_frequency": 50000000.0}Read 
+{"averaging_cycles": 1, "averaging_time": 5e-05, "estimated_sweep_time": 0.051201943182827926, "linear_scale": true, "num_points": 512, "settling_cycles": 1, "settling_time": 5e-05, "start_frequency": 280220000.0, "stop_frequency": 50000000.0}Set 
+Read 
+{"averaging_cycles": 1, "averaging_time": 5e-05, "estimated_sweep_time": 0.051201943182827926, "linear_scale": true, "num_points": 512, "settling_cycles": 1, "settling_time": 5e-05, "start_frequency": 280220000.0, "stop_frequency": 50000000.0}Read 
+{"averaging_cycles": 1, "averaging_time": 5e-05, "estimated_sweep_time": 0.05120194432376704, "linear_scale": true, "num_points": 512, "settling_cycles": 1, "settling_time": 5e-05, "start_frequency": 290210000.0, "stop_frequency": 50000000.0}Set 
+Read 
+{"averaging_cycles": 1, "averaging_time": 5e-05, "estimated_sweep_time": 0.05120194432376704, "linear_scale": true, "num_points": 512, "settling_cycles": 1, "settling_time": 5e-05, "start_frequency": 290210000.0, "stop_frequency": 50000000.0}Read 
+{"averaging_cycles": 1, "averaging_time": 5e-05, "estimated_sweep_time": 0.05120184333003198, "linear_scale": true, "num_points": 512, "settling_cycles": 1, "settling_time": 5e-05, "start_frequency": 300000000.0, "stop_frequency": 50000000.0}Set 
+Read 
+{"averaging_cycles": 1, "averaging_time": 5e-05, "estimated_sweep_time": 0.05120184333003198, "linear_scale": true, "num_points": 512, "settling_cycles": 1, "settling_time": 5e-05, "start_frequency": 300000000.0, "stop_frequency": 50000000.0}Read 
+{"averaging_cycles": 1, "averaging_time": 5e-05, "estimated_sweep_time": 0.05120184333003198, "linear_scale": true, "num_points": 512, "settling_cycles": 1, "settling_time": 5e-05, "start_frequency": 300000000.0, "stop_frequency": 50000000.0}Set 
+Read 
+{"averaging_cycles": 1, "averaging_time": 5e-05, "estimated_sweep_time": 0.05120184333003198, "linear_scale": true, "num_points": 512, "settling_cycles": 1, "settling_time": 5e-05, "start_frequency": 300000000.0, "stop_frequency": 50000000.0}Read 
+{"averaging_cycles": 1, "averaging_time": 5e-05, "estimated_sweep_time": 0.05120184333003198, "linear_scale": true, "num_points": 512, "settling_cycles": 1, "settling_time": 5e-05, "start_frequency": 300000000.0, "stop_frequency": 50000000.0}Set 
+Read 
+{"averaging_cycles": 1, "averaging_time": 5e-05, "estimated_sweep_time": 0.05120184333003198, "linear_scale": true, "num_points": 512, "settling_cycles": 1, "settling_time": 5e-05, "start_frequency": 300000000.0, "stop_frequency": 50000000.0}Read 
+{"averaging_cycles": 1, "averaging_time": 5e-05, "estimated_sweep_time": 0.05120184333003198, "linear_scale": true, "num_points": 512, "settling_cycles": 1, "settling_time": 5e-05, "start_frequency": 300000000.0, "stop_frequency": 50000000.0}Set 
+Read 
+{"averaging_cycles": 1, "averaging_time": 5e-05, "estimated_sweep_time": 0.05120184333003198, "linear_scale": true, "num_points": 512, "settling_cycles": 1, "settling_time": 5e-05, "start_frequency": 300000000.0, "stop_frequency": 50000000.0}Read 
+{"averaging_cycles": 1, "averaging_time": 5e-05, "estimated_sweep_time": 0.05120184333003198, "linear_scale": true, "num_points": 512, "settling_cycles": 1, "settling_time": 5e-05, "start_frequency": 300000000.0, "stop_frequency": 50000000.0}Set 
+Read 
+{"averaging_cycles": 1, "averaging_time": 5e-05, "estimated_sweep_time": 0.05120184333003198, "linear_scale": true, "num_points": 512, "settling_cycles": 1, "settling_time": 5e-05, "start_frequency": 300000000.0, "stop_frequency": 50000000.0}Read 
+{"averaging_cycles": 1, "averaging_time": 5e-05, "estimated_sweep_time": 0.05120184333003198, "linear_scale": true, "num_points": 512, "settling_cycles": 1, "settling_time": 5e-05, "start_frequency": 300000000.0, "stop_frequency": 50000000.0}Set 
+Read 
+{"averaging_cycles": 1, "averaging_time": 5e-05, "estimated_sweep_time": 0.05120184333003198, "linear_scale": true, "num_points": 512, "settling_cycles": 1, "settling_time": 5e-05, "start_frequency": 300000000.0, "stop_frequency": 50000000.0}Read 
+{"averaging_cycles": 1, "averaging_time": 5e-05, "estimated_sweep_time": 0.05120184333003198, "linear_scale": true, "num_points": 512, "settling_cycles": 1, "settling_time": 5e-05, "start_frequency": 300000000.0, "stop_frequency": 50000000.0}Set 
+Read 
+{"averaging_cycles": 1, "averaging_time": 5e-05, "estimated_sweep_time": 0.05120184333003198, "linear_scale": true, "num_points": 512, "settling_cycles": 1, "settling_time": 5e-05, "start_frequency": 300000000.0, "stop_frequency": 50000000.0}Read 
+{"averaging_cycles": 1, "averaging_time": 5e-05, "estimated_sweep_time": 0.05120184333003198, "linear_scale": true, "num_points": 512, "settling_cycles": 1, "settling_time": 5e-05, "start_frequency": 300000000.0, "stop_frequency": 50000000.0}Set 
+Read 
+{"averaging_cycles": 1, "averaging_time": 5e-05, "estimated_sweep_time": 0.05120184333003198, "linear_scale": true, "num_points": 512, "settling_cycles": 1, "settling_time": 5e-05, "start_frequency": 300000000.0, "stop_frequency": 50000000.0}Read 
+{"averaging_cycles": 1, "averaging_time": 5e-05, "estimated_sweep_time": 0.05120184333003198, "linear_scale": true, "num_points": 512, "settling_cycles": 1, "settling_time": 5e-05, "start_frequency": 300000000.0, "stop_frequency": 50000000.0}Set 
+Read 
+{"averaging_cycles": 1, "averaging_time": 5e-05, "estimated_sweep_time": 0.05120184333003198, "linear_scale": true, "num_points": 512, "settling_cycles": 1, "settling_time": 5e-05, "start_frequency": 300000000.0, "stop_frequency": 50000000.0}Read 
+{"averaging_cycles": 1, "averaging_time": 5e-05, "estimated_sweep_time": 0.05120184333003198, "linear_scale": true, "num_points": 512, "settling_cycles": 1, "settling_time": 5e-05, "start_frequency": 300000000.0, "stop_frequency": 50000000.0}Set 
+Read 
+{"averaging_cycles": 1, "averaging_time": 5e-05, "estimated_sweep_time": 0.05120184333003198, "linear_scale": true, "num_points": 512, "settling_cycles": 1, "settling_time": 5e-05, "start_frequency": 300000000.0, "stop_frequency": 50000000.0}Read 
+{"averaging_cycles": 1, "averaging_time": 5e-05, "estimated_sweep_time": 0.05120184333003198, "linear_scale": true, "num_points": 512, "settling_cycles": 1, "settling_time": 5e-05, "start_frequency": 300000000.0, "stop_frequency": 50000000.0}Set 
+Read 
+{"averaging_cycles": 1, "averaging_time": 5e-05, "estimated_sweep_time": 0.05120184333003198, "linear_scale": true, "num_points": 512, "settling_cycles": 1, "settling_time": 5e-05, "start_frequency": 300000000.0, "stop_frequency": 50000000.0}Read 
+{"averaging_cycles": 1, "averaging_time": 5e-05, "estimated_sweep_time": 0.05120184333003198, "linear_scale": true, "num_points": 512, "settling_cycles": 1, "settling_time": 5e-05, "start_frequency": 300000000.0, "stop_frequency": 50000000.0}Set 
+Read 
+{"averaging_cycles": 1, "averaging_time": 5e-05, "estimated_sweep_time": 0.05120184333003198, "linear_scale": true, "num_points": 512, "settling_cycles": 1, "settling_time": 5e-05, "start_frequency": 300000000.0, "stop_frequency": 50000000.0}Read 
+{"averaging_cycles": 1, "averaging_time": 5e-05, "estimated_sweep_time": 0.05120184333003198, "linear_scale": true, "num_points": 512, "settling_cycles": 1, "settling_time": 5e-05, "start_frequency": 300000000.0, "stop_frequency": 50000000.0}Set 
+Read 
+{"averaging_cycles": 1, "averaging_time": 5e-05, "estimated_sweep_time": 0.05120184333003198, "linear_scale": true, "num_points": 512, "settling_cycles": 1, "settling_time": 5e-05, "start_frequency": 300000000.0, "stop_frequency": 50000000.0}Read 
+{"averaging_cycles": 1, "averaging_time": 5e-05, "estimated_sweep_time": 0.05120184333003198, "linear_scale": true, "num_points": 512, "settling_cycles": 1, "settling_time": 5e-05, "start_frequency": 300000000.0, "stop_frequency": 50000000.0}Set 
+Read 
+{"averaging_cycles": 1, "averaging_time": 5e-05, "estimated_sweep_time": 0.05120184333003198, "linear_scale": true, "num_points": 512, "settling_cycles": 1, "settling_time": 5e-05, "start_frequency": 300000000.0, "stop_frequency": 50000000.0}Read 
+{"averaging_cycles": 1, "averaging_time": 5e-05, "estimated_sweep_time": 0.05120184333003198, "linear_scale": true, "num_points": 512, "settling_cycles": 1, "settling_time": 5e-05, "start_frequency": 300000000.0, "stop_frequency": 50000000.0}Set 
+Read 
+{"averaging_cycles": 1, "averaging_time": 5e-05, "estimated_sweep_time": 0.05120184333003198, "linear_scale": true, "num_points": 512, "settling_cycles": 1, "settling_time": 5e-05, "start_frequency": 300000000.0, "stop_frequency": 50000000.0}Read 
+{"averaging_cycles": 1, "averaging_time": 5e-05, "estimated_sweep_time": 0.05120184333003198, "linear_scale": true, "num_points": 512, "settling_cycles": 1, "settling_time": 5e-05, "start_frequency": 300000000.0, "stop_frequency": 50000000.0}Set 
+Read 
+{"averaging_cycles": 1, "averaging_time": 5e-05, "estimated_sweep_time": 0.05120184333003198, "linear_scale": true, "num_points": 512, "settling_cycles": 1, "settling_time": 5e-05, "start_frequency": 300000000.0, "stop_frequency": 50000000.0}Read 
+{"averaging_cycles": 1, "averaging_time": 5e-05, "estimated_sweep_time": 0.05120184333003198, "linear_scale": true, "num_points": 512, "settling_cycles": 1, "settling_time": 5e-05, "start_frequency": 300000000.0, "stop_frequency": 50000000.0}Set 
+Read 
+{"averaging_cycles": 1, "averaging_time": 5e-05, "estimated_sweep_time": 0.05120184333003198, "linear_scale": true, "num_points": 512, "settling_cycles": 1, "settling_time": 5e-05, "start_frequency": 300000000.0, "stop_frequency": 50000000.0}Read 
+{"averaging_cycles": 1, "averaging_time": 5e-05, "estimated_sweep_time": 0.05120184333003198, "linear_scale": true, "num_points": 512, "settling_cycles": 1, "settling_time": 5e-05, "start_frequency": 300000000.0, "stop_frequency": 50000000.0}Set 
+Read 
+{"averaging_cycles": 1, "averaging_time": 5e-05, "estimated_sweep_time": 0.05120184333003198, "linear_scale": true, "num_points": 512, "settling_cycles": 1, "settling_time": 5e-05, "start_frequency": 300000000.0, "stop_frequency": 50000000.0}Read 
+{"averaging_cycles": 1, "averaging_time": 5e-05, "estimated_sweep_time": 0.05120184333003198, "linear_scale": true, "num_points": 512, "settling_cycles": 1, "settling_time": 5e-05, "start_frequency": 300000000.0, "stop_frequency": 50000000.0}Set 
+Read 
+{"averaging_cycles": 1, "averaging_time": 5e-05, "estimated_sweep_time": 0.05120184333003198, "linear_scale": true, "num_points": 512, "settling_cycles": 1, "settling_time": 5e-05, "start_frequency": 300000000.0, "stop_frequency": 50000000.0}Read 
+{"averaging_cycles": 1, "averaging_time": 5e-05, "estimated_sweep_time": 0.05120184333003198, "linear_scale": true, "num_points": 512, "settling_cycles": 1, "settling_time": 5e-05, "start_frequency": 300000000.0, "stop_frequency": 50000000.0}Set 
+Read 
+{"averaging_cycles": 1, "averaging_time": 5e-05, "estimated_sweep_time": 0.05120184333003198, "linear_scale": true, "num_points": 512, "settling_cycles": 1, "settling_time": 5e-05, "start_frequency": 300000000.0, "stop_frequency": 50000000.0}Read 
+{"averaging_cycles": 1, "averaging_time": 5e-05, "estimated_sweep_time": 0.05120184333003198, "linear_scale": true, "num_points": 512, "settling_cycles": 1, "settling_time": 5e-05, "start_frequency": 300000000.0, "stop_frequency": 50000000.0}Set 
+Read 
+{"averaging_cycles": 1, "averaging_time": 5e-05, "estimated_sweep_time": 0.05120184333003198, "linear_scale": true, "num_points": 512, "settling_cycles": 1, "settling_time": 5e-05, "start_frequency": 300000000.0, "stop_frequency": 50000000.0}Read 
+{"averaging_cycles": 1, "averaging_time": 5e-05, "estimated_sweep_time": 0.05122275039797883, "linear_scale": true, "num_points": 512, "settling_cycles": 1, "settling_time": 5e-05, "start_frequency": 500000.0, "stop_frequency": 50000000.0}Set 
+{"averaging_cycles": 1, "averaging_time": 5e-05, "estimated_sweep_time": 0.0515560598042882, "linear_scale": true, "num_points": 512, "settling_cycles": 1, "settling_time": 5e-05, "start_frequency": 500000.0, "stop_frequency": 1000000.0}Set 
+{"averaging_cycles": 1, "averaging_time": 5e-05, "estimated_sweep_time": 0.0515560598042882, "linear_scale": true, "num_points": 512, "settling_cycles": 1, "settling_time": 5e-05, "start_frequency": 500000.0, "stop_frequency": 1000000.0}Set 
+{"averaging_cycles": 1, "averaging_time": 5e-05, "estimated_sweep_time": 0.0515560598042882, "linear_scale": true, "num_points": 512, "settling_cycles": 1, "settling_time": 5e-05, "start_frequency": 500000.0, "stop_frequency": 1000000.0}Set 
+{"averaging_cycles": 1, "averaging_time": 5e-05, "estimated_sweep_time": 0.0515560598042882, "linear_scale": true, "num_points": 512, "settling_cycles": 1, "settling_time": 5e-05, "start_frequency": 500000.0, "stop_frequency": 1000000.0}Set 
+{"averaging_cycles": 1, "averaging_time": 5e-05, "estimated_sweep_time": 0.0515560598042882, "linear_scale": true, "num_points": 512, "settling_cycles": 1, "settling_time": 5e-05, "start_frequency": 500000.0, "stop_frequency": 1000000.0}Set 
+{"averaging_cycles": 1, "averaging_time": 5e-05, "estimated_sweep_time": 0.0515560598042882, "linear_scale": true, "num_points": 512, "settling_cycles": 1, "settling_time": 5e-05, "start_frequency": 500000.0, "stop_frequency": 1000000.0}Set 
+{"averaging_cycles": 1, "averaging_time": 5e-05, "estimated_sweep_time": 0.0515560598042882, "linear_scale": true, "num_points": 512, "settling_cycles": 1, "settling_time": 5e-05, "start_frequency": 500000.0, "stop_frequency": 1000000.0}Set 
+{"averaging_cycles": 1, "averaging_time": 5e-05, "estimated_sweep_time": 0.0515560598042882, "linear_scale": true, "num_points": 512, "settling_cycles": 1, "settling_time": 5e-05, "start_frequency": 500000.0, "stop_frequency": 1000000.0}Set 
+{"averaging_cycles": 1, "averaging_time": 5e-05, "estimated_sweep_time": 0.0515560598042882, "linear_scale": true, "num_points": 512, "settling_cycles": 1, "settling_time": 5e-05, "start_frequency": 500000.0, "stop_frequency": 1000000.0}Set 
+{"averaging_cycles": 1, "averaging_time": 5e-05, "estimated_sweep_time": 0.0515560598042882, "linear_scale": true, "num_points": 512, "settling_cycles": 1, "settling_time": 5e-05, "start_frequency": 500000.0, "stop_frequency": 1000000.0}Set 
+Read 
+{"averaging_cycles": 1, "averaging_time": 5e-05, "estimated_sweep_time": 0.0515560598042882, "linear_scale": true, "num_points": 512, "settling_cycles": 1, "settling_time": 5e-05, "start_frequency": 500000.0, "stop_frequency": 1000000.0}Read 
+{"averaging_cycles": 1, "averaging_time": 5e-05, "estimated_sweep_time": 0.05125779382238783, "linear_scale": true, "num_points": 512, "settling_cycles": 1, "settling_time": 5e-05, "start_frequency": 10490000.0, "stop_frequency": 1000000.0}Set 
+Read 
+{"averaging_cycles": 1, "averaging_time": 5e-05, "estimated_sweep_time": 0.05125779382238783, "linear_scale": true, "num_points": 512, "settling_cycles": 1, "settling_time": 5e-05, "start_frequency": 10490000.0, "stop_frequency": 1000000.0}Read 
+{"averaging_cycles": 1, "averaging_time": 5e-05, "estimated_sweep_time": 0.051238617080036096, "linear_scale": true, "num_points": 512, "settling_cycles": 1, "settling_time": 5e-05, "start_frequency": 20480000.0, "stop_frequency": 1000000.0}Set 
+Read 
+{"averaging_cycles": 1, "averaging_time": 5e-05, "estimated_sweep_time": 0.051238617080036096, "linear_scale": true, "num_points": 512, "settling_cycles": 1, "settling_time": 5e-05, "start_frequency": 20480000.0, "stop_frequency": 1000000.0}Read 
+{"averaging_cycles": 1, "averaging_time": 5e-05, "estimated_sweep_time": 0.05122877340081584, "linear_scale": true, "num_points": 512, "settling_cycles": 1, "settling_time": 5e-05, "start_frequency": 30470000.0, "stop_frequency": 1000000.0}Set 
+Read 
+{"averaging_cycles": 1, "averaging_time": 5e-05, "estimated_sweep_time": 0.05122877340081584, "linear_scale": true, "num_points": 512, "settling_cycles": 1, "settling_time": 5e-05, "start_frequency": 30470000.0, "stop_frequency": 1000000.0}Read 
+{"averaging_cycles": 1, "averaging_time": 5e-05, "estimated_sweep_time": 0.05122335696393053, "linear_scale": true, "num_points": 512, "settling_cycles": 1, "settling_time": 5e-05, "start_frequency": 40460000.0, "stop_frequency": 1000000.0}Set 
+Read 
+{"averaging_cycles": 1, "averaging_time": 5e-05, "estimated_sweep_time": 0.05122335696393053, "linear_scale": true, "num_points": 512, "settling_cycles": 1, "settling_time": 5e-05, "start_frequency": 40460000.0, "stop_frequency": 1000000.0}Read 
+{"averaging_cycles": 1, "averaging_time": 5e-05, "estimated_sweep_time": 0.05121978908321252, "linear_scale": true, "num_points": 512, "settling_cycles": 1, "settling_time": 5e-05, "start_frequency": 50450000.0, "stop_frequency": 1000000.0}Set 
+Read 
+{"averaging_cycles": 1, "averaging_time": 5e-05, "estimated_sweep_time": 0.05121978908321252, "linear_scale": true, "num_points": 512, "settling_cycles": 1, "settling_time": 5e-05, "start_frequency": 50450000.0, "stop_frequency": 1000000.0}Read 
+{"averaging_cycles": 1, "averaging_time": 5e-05, "estimated_sweep_time": 0.05121713199376252, "linear_scale": true, "num_points": 512, "settling_cycles": 1, "settling_time": 5e-05, "start_frequency": 60440000.0, "stop_frequency": 1000000.0}Set 
+Read 
+{"averaging_cycles": 1, "averaging_time": 5e-05, "estimated_sweep_time": 0.05121713199376252, "linear_scale": true, "num_points": 512, "settling_cycles": 1, "settling_time": 5e-05, "start_frequency": 60440000.0, "stop_frequency": 1000000.0}Read 
+{"averaging_cycles": 1, "averaging_time": 5e-05, "estimated_sweep_time": 0.05121500543733564, "linear_scale": true, "num_points": 512, "settling_cycles": 1, "settling_time": 5e-05, "start_frequency": 70430000.0, "stop_frequency": 1000000.0}Set 
+Read 
+{"averaging_cycles": 1, "averaging_time": 5e-05, "estimated_sweep_time": 0.05121500543733564, "linear_scale": true, "num_points": 512, "settling_cycles": 1, "settling_time": 5e-05, "start_frequency": 70430000.0, "stop_frequency": 1000000.0}Read 
+{"averaging_cycles": 1, "averaging_time": 5e-05, "estimated_sweep_time": 0.051213806957163016, "linear_scale": true, "num_points": 512, "settling_cycles": 1, "settling_time": 5e-05, "start_frequency": 80420000.0, "stop_frequency": 1000000.0}Set 
+Read 
+{"averaging_cycles": 1, "averaging_time": 5e-05, "estimated_sweep_time": 0.051213806957163016, "linear_scale": true, "num_points": 512, "settling_cycles": 1, "settling_time": 5e-05, "start_frequency": 80420000.0, "stop_frequency": 1000000.0}Read 
+{"averaging_cycles": 1, "averaging_time": 5e-05, "estimated_sweep_time": 0.05121145976661776, "linear_scale": true, "num_points": 512, "settling_cycles": 1, "settling_time": 5e-05, "start_frequency": 90410000.0, "stop_frequency": 1000000.0}Set 
+Read 
+{"averaging_cycles": 1, "averaging_time": 5e-05, "estimated_sweep_time": 0.05121145976661776, "linear_scale": true, "num_points": 512, "settling_cycles": 1, "settling_time": 5e-05, "start_frequency": 90410000.0, "stop_frequency": 1000000.0}Read 
+{"averaging_cycles": 1, "averaging_time": 5e-05, "estimated_sweep_time": 0.051211292351404133, "linear_scale": true, "num_points": 512, "settling_cycles": 1, "settling_time": 5e-05, "start_frequency": 100400000.0, "stop_frequency": 1000000.0}Set 
+Read 
+{"averaging_cycles": 1, "averaging_time": 5e-05, "estimated_sweep_time": 0.051211292351404133, "linear_scale": true, "num_points": 512, "settling_cycles": 1, "settling_time": 5e-05, "start_frequency": 100400000.0, "stop_frequency": 1000000.0}Read 
+{"averaging_cycles": 1, "averaging_time": 5e-05, "estimated_sweep_time": 0.05121067516132692, "linear_scale": true, "num_points": 512, "settling_cycles": 1, "settling_time": 5e-05, "start_frequency": 110390000.0, "stop_frequency": 1000000.0}Set 
+Read 
+{"averaging_cycles": 1, "averaging_time": 5e-05, "estimated_sweep_time": 0.05121067516132692, "linear_scale": true, "num_points": 512, "settling_cycles": 1, "settling_time": 5e-05, "start_frequency": 110390000.0, "stop_frequency": 1000000.0}Read 
+{"averaging_cycles": 1, "averaging_time": 5e-05, "estimated_sweep_time": 0.051210221474837996, "linear_scale": true, "num_points": 512, "settling_cycles": 1, "settling_time": 5e-05, "start_frequency": 120380000.0, "stop_frequency": 1000000.0}Set 
+Read 
+{"averaging_cycles": 1, "averaging_time": 5e-05, "estimated_sweep_time": 0.051210221474837996, "linear_scale": true, "num_points": 512, "settling_cycles": 1, "settling_time": 5e-05, "start_frequency": 120380000.0, "stop_frequency": 1000000.0}Read 
+{"averaging_cycles": 1, "averaging_time": 5e-05, "estimated_sweep_time": 0.05120875403382796, "linear_scale": true, "num_points": 512, "settling_cycles": 1, "settling_time": 5e-05, "start_frequency": 130370000.0, "stop_frequency": 1000000.0}Set 
+Read 
+{"averaging_cycles": 1, "averaging_time": 5e-05, "estimated_sweep_time": 0.05120875403382796, "linear_scale": true, "num_points": 512, "settling_cycles": 1, "settling_time": 5e-05, "start_frequency": 130370000.0, "stop_frequency": 1000000.0}Read 
+{"averaging_cycles": 1, "averaging_time": 5e-05, "estimated_sweep_time": 0.0512084706454026, "linear_scale": true, "num_points": 512, "settling_cycles": 1, "settling_time": 5e-05, "start_frequency": 140360000.0, "stop_frequency": 1000000.0}Set 
+Read 
+{"averaging_cycles": 1, "averaging_time": 5e-05, "estimated_sweep_time": 0.0512084706454026, "linear_scale": true, "num_points": 512, "settling_cycles": 1, "settling_time": 5e-05, "start_frequency": 140360000.0, "stop_frequency": 1000000.0}Read 
+{"averaging_cycles": 1, "averaging_time": 5e-05, "estimated_sweep_time": 0.05120832287391292, "linear_scale": true, "num_points": 512, "settling_cycles": 1, "settling_time": 5e-05, "start_frequency": 150350000.0, "stop_frequency": 1000000.0}Set 
+Read 
+{"averaging_cycles": 1, "averaging_time": 5e-05, "estimated_sweep_time": 0.05120832287391292, "linear_scale": true, "num_points": 512, "settling_cycles": 1, "settling_time": 5e-05, "start_frequency": 150350000.0, "stop_frequency": 1000000.0}Read 
+{"averaging_cycles": 1, "averaging_time": 5e-05, "estimated_sweep_time": 0.051207955371379774, "linear_scale": true, "num_points": 512, "settling_cycles": 1, "settling_time": 5e-05, "start_frequency": 160340000.0, "stop_frequency": 1000000.0}Set 
+Read 
+{"averaging_cycles": 1, "averaging_time": 5e-05, "estimated_sweep_time": 0.051207955371379774, "linear_scale": true, "num_points": 512, "settling_cycles": 1, "settling_time": 5e-05, "start_frequency": 160340000.0, "stop_frequency": 1000000.0}Read 
+{"averaging_cycles": 1, "averaging_time": 5e-05, "estimated_sweep_time": 0.05120742975235853, "linear_scale": true, "num_points": 512, "settling_cycles": 1, "settling_time": 5e-05, "start_frequency": 170330000.0, "stop_frequency": 1000000.0}Set 
+Read 
+{"averaging_cycles": 1, "averaging_time": 5e-05, "estimated_sweep_time": 0.05120742975235853, "linear_scale": true, "num_points": 512, "settling_cycles": 1, "settling_time": 5e-05, "start_frequency": 170330000.0, "stop_frequency": 1000000.0}Read 
+{"averaging_cycles": 1, "averaging_time": 5e-05, "estimated_sweep_time": 0.051207493242350306, "linear_scale": true, "num_points": 512, "settling_cycles": 1, "settling_time": 5e-05, "start_frequency": 180320000.0, "stop_frequency": 1000000.0}Set 
+Read 
+{"averaging_cycles": 1, "averaging_time": 5e-05, "estimated_sweep_time": 0.051207493242350306, "linear_scale": true, "num_points": 512, "settling_cycles": 1, "settling_time": 5e-05, "start_frequency": 180320000.0, "stop_frequency": 1000000.0}Read 
+{"averaging_cycles": 1, "averaging_time": 5e-05, "estimated_sweep_time": 0.05120716716918924, "linear_scale": true, "num_points": 512, "settling_cycles": 1, "settling_time": 5e-05, "start_frequency": 190310000.0, "stop_frequency": 1000000.0}Set 
+Read 
+{"averaging_cycles": 1, "averaging_time": 5e-05, "estimated_sweep_time": 0.05120716716918924, "linear_scale": true, "num_points": 512, "settling_cycles": 1, "settling_time": 5e-05, "start_frequency": 190310000.0, "stop_frequency": 1000000.0}Read 
+{"averaging_cycles": 1, "averaging_time": 5e-05, "estimated_sweep_time": 0.05120849554295373, "linear_scale": true, "num_points": 512, "settling_cycles": 1, "settling_time": 5e-05, "start_frequency": 200300000.0, "stop_frequency": 1000000.0}Set 
+Read 
+{"averaging_cycles": 1, "averaging_time": 5e-05, "estimated_sweep_time": 0.05120849554295373, "linear_scale": true, "num_points": 512, "settling_cycles": 1, "settling_time": 5e-05, "start_frequency": 200300000.0, "stop_frequency": 1000000.0}Read 
+{"averaging_cycles": 1, "averaging_time": 5e-05, "estimated_sweep_time": 0.05120596581844901, "linear_scale": true, "num_points": 512, "settling_cycles": 1, "settling_time": 5e-05, "start_frequency": 210290000.0, "stop_frequency": 1000000.0}Set 
+Read 
+{"averaging_cycles": 1, "averaging_time": 5e-05, "estimated_sweep_time": 0.05120596581844901, "linear_scale": true, "num_points": 512, "settling_cycles": 1, "settling_time": 5e-05, "start_frequency": 210290000.0, "stop_frequency": 1000000.0}Read 
+{"averaging_cycles": 1, "averaging_time": 5e-05, "estimated_sweep_time": 0.05120595785134525, "linear_scale": true, "num_points": 512, "settling_cycles": 1, "settling_time": 5e-05, "start_frequency": 220280000.0, "stop_frequency": 1000000.0}Set 
+Read 
+{"averaging_cycles": 1, "averaging_time": 5e-05, "estimated_sweep_time": 0.05120595785134525, "linear_scale": true, "num_points": 512, "settling_cycles": 1, "settling_time": 5e-05, "start_frequency": 220280000.0, "stop_frequency": 1000000.0}Read 
+{"averaging_cycles": 1, "averaging_time": 5e-05, "estimated_sweep_time": 0.05120585189199237, "linear_scale": true, "num_points": 512, "settling_cycles": 1, "settling_time": 5e-05, "start_frequency": 230270000.0, "stop_frequency": 1000000.0}Set 
+Read 
+{"averaging_cycles": 1, "averaging_time": 5e-05, "estimated_sweep_time": 0.05120585189199237, "linear_scale": true, "num_points": 512, "settling_cycles": 1, "settling_time": 5e-05, "start_frequency": 230270000.0, "stop_frequency": 1000000.0}Read 
+{"averaging_cycles": 1, "averaging_time": 5e-05, "estimated_sweep_time": 0.05120559896055859, "linear_scale": true, "num_points": 512, "settling_cycles": 1, "settling_time": 5e-05, "start_frequency": 240260000.0, "stop_frequency": 1000000.0}Set 
+Read 
+{"averaging_cycles": 1, "averaging_time": 5e-05, "estimated_sweep_time": 0.05120559896055859, "linear_scale": true, "num_points": 512, "settling_cycles": 1, "settling_time": 5e-05, "start_frequency": 240260000.0, "stop_frequency": 1000000.0}Read 
+{"averaging_cycles": 1, "averaging_time": 5e-05, "estimated_sweep_time": 0.05120537539408911, "linear_scale": true, "num_points": 512, "settling_cycles": 1, "settling_time": 5e-05, "start_frequency": 250250000.0, "stop_frequency": 1000000.0}Set 
+Read 
+{"averaging_cycles": 1, "averaging_time": 5e-05, "estimated_sweep_time": 0.05120537539408911, "linear_scale": true, "num_points": 512, "settling_cycles": 1, "settling_time": 5e-05, "start_frequency": 250250000.0, "stop_frequency": 1000000.0}Read 
+{"averaging_cycles": 1, "averaging_time": 5e-05, "estimated_sweep_time": 0.051205371464064606, "linear_scale": true, "num_points": 512, "settling_cycles": 1, "settling_time": 5e-05, "start_frequency": 260240000.0, "stop_frequency": 1000000.0}Set 
+Read 
+{"averaging_cycles": 1, "averaging_time": 5e-05, "estimated_sweep_time": 0.051205371464064606, "linear_scale": true, "num_points": 512, "settling_cycles": 1, "settling_time": 5e-05, "start_frequency": 260240000.0, "stop_frequency": 1000000.0}Read 
+{"averaging_cycles": 1, "averaging_time": 5e-05, "estimated_sweep_time": 0.05120539441174673, "linear_scale": true, "num_points": 512, "settling_cycles": 1, "settling_time": 5e-05, "start_frequency": 270230000.0, "stop_frequency": 1000000.0}Set 
+Read 
+{"averaging_cycles": 1, "averaging_time": 5e-05, "estimated_sweep_time": 0.05120539441174673, "linear_scale": true, "num_points": 512, "settling_cycles": 1, "settling_time": 5e-05, "start_frequency": 270230000.0, "stop_frequency": 1000000.0}Read 
+{"averaging_cycles": 1, "averaging_time": 5e-05, "estimated_sweep_time": 0.051204776368504665, "linear_scale": true, "num_points": 512, "settling_cycles": 1, "settling_time": 5e-05, "start_frequency": 280220000.0, "stop_frequency": 1000000.0}Set 
+Read 
+{"averaging_cycles": 1, "averaging_time": 5e-05, "estimated_sweep_time": 0.051204776368504665, "linear_scale": true, "num_points": 512, "settling_cycles": 1, "settling_time": 5e-05, "start_frequency": 280220000.0, "stop_frequency": 1000000.0}Read 
+{"averaging_cycles": 1, "averaging_time": 5e-05, "estimated_sweep_time": 0.05120475820892828, "linear_scale": true, "num_points": 512, "settling_cycles": 1, "settling_time": 5e-05, "start_frequency": 290210000.0, "stop_frequency": 1000000.0}Set 
+Read 
+{"averaging_cycles": 1, "averaging_time": 5e-05, "estimated_sweep_time": 0.05120475820892828, "linear_scale": true, "num_points": 512, "settling_cycles": 1, "settling_time": 5e-05, "start_frequency": 290210000.0, "stop_frequency": 1000000.0}Read 
+{"averaging_cycles": 1, "averaging_time": 5e-05, "estimated_sweep_time": 0.051204895081477325, "linear_scale": true, "num_points": 512, "settling_cycles": 1, "settling_time": 5e-05, "start_frequency": 300000000.0, "stop_frequency": 1000000.0}Set 
+Read 
+{"averaging_cycles": 1, "averaging_time": 5e-05, "estimated_sweep_time": 0.051204895081477325, "linear_scale": true, "num_points": 512, "settling_cycles": 1, "settling_time": 5e-05, "start_frequency": 300000000.0, "stop_frequency": 1000000.0}Read 
+{"averaging_cycles": 1, "averaging_time": 5e-05, "estimated_sweep_time": 0.051204895081477325, "linear_scale": true, "num_points": 512, "settling_cycles": 1, "settling_time": 5e-05, "start_frequency": 300000000.0, "stop_frequency": 1000000.0}Set 
+Read 
+{"averaging_cycles": 1, "averaging_time": 5e-05, "estimated_sweep_time": 0.051204895081477325, "linear_scale": true, "num_points": 512, "settling_cycles": 1, "settling_time": 5e-05, "start_frequency": 300000000.0, "stop_frequency": 1000000.0}Read 
+{"averaging_cycles": 1, "averaging_time": 5e-05, "estimated_sweep_time": 0.051204895081477325, "linear_scale": true, "num_points": 512, "settling_cycles": 1, "settling_time": 5e-05, "start_frequency": 300000000.0, "stop_frequency": 1000000.0}Set 
+Read 
+{"averaging_cycles": 1, "averaging_time": 5e-05, "estimated_sweep_time": 0.051204895081477325, "linear_scale": true, "num_points": 512, "settling_cycles": 1, "settling_time": 5e-05, "start_frequency": 300000000.0, "stop_frequency": 1000000.0}Read 
+{"averaging_cycles": 1, "averaging_time": 5e-05, "estimated_sweep_time": 0.051204895081477325, "linear_scale": true, "num_points": 512, "settling_cycles": 1, "settling_time": 5e-05, "start_frequency": 300000000.0, "stop_frequency": 1000000.0}Set 
+Read 
+{"averaging_cycles": 1, "averaging_time": 5e-05, "estimated_sweep_time": 0.051204895081477325, "linear_scale": true, "num_points": 512, "settling_cycles": 1, "settling_time": 5e-05, "start_frequency": 300000000.0, "stop_frequency": 1000000.0}Read 
+{"averaging_cycles": 1, "averaging_time": 5e-05, "estimated_sweep_time": 0.051204895081477325, "linear_scale": true, "num_points": 512, "settling_cycles": 1, "settling_time": 5e-05, "start_frequency": 300000000.0, "stop_frequency": 1000000.0}Set 
+Read 
+{"averaging_cycles": 1, "averaging_time": 5e-05, "estimated_sweep_time": 0.051204895081477325, "linear_scale": true, "num_points": 512, "settling_cycles": 1, "settling_time": 5e-05, "start_frequency": 300000000.0, "stop_frequency": 1000000.0}Read 
+{"averaging_cycles": 1, "averaging_time": 5e-05, "estimated_sweep_time": 0.051204895081477325, "linear_scale": true, "num_points": 512, "settling_cycles": 1, "settling_time": 5e-05, "start_frequency": 300000000.0, "stop_frequency": 1000000.0}Set 
+Read 
+{"averaging_cycles": 1, "averaging_time": 5e-05, "estimated_sweep_time": 0.051204895081477325, "linear_scale": true, "num_points": 512, "settling_cycles": 1, "settling_time": 5e-05, "start_frequency": 300000000.0, "stop_frequency": 1000000.0}Read 
+{"averaging_cycles": 1, "averaging_time": 5e-05, "estimated_sweep_time": 0.051204895081477325, "linear_scale": true, "num_points": 512, "settling_cycles": 1, "settling_time": 5e-05, "start_frequency": 300000000.0, "stop_frequency": 1000000.0}Set 
+Read 
+{"averaging_cycles": 1, "averaging_time": 5e-05, "estimated_sweep_time": 0.051204895081477325, "linear_scale": true, "num_points": 512, "settling_cycles": 1, "settling_time": 5e-05, "start_frequency": 300000000.0, "stop_frequency": 1000000.0}Read 
+{"averaging_cycles": 1, "averaging_time": 5e-05, "estimated_sweep_time": 0.051204895081477325, "linear_scale": true, "num_points": 512, "settling_cycles": 1, "settling_time": 5e-05, "start_frequency": 300000000.0, "stop_frequency": 1000000.0}Set 
+Read 
+{"averaging_cycles": 1, "averaging_time": 5e-05, "estimated_sweep_time": 0.051204895081477325, "linear_scale": true, "num_points": 512, "settling_cycles": 1, "settling_time": 5e-05, "start_frequency": 300000000.0, "stop_frequency": 1000000.0}Read 
+{"averaging_cycles": 1, "averaging_time": 5e-05, "estimated_sweep_time": 0.051204895081477325, "linear_scale": true, "num_points": 512, "settling_cycles": 1, "settling_time": 5e-05, "start_frequency": 300000000.0, "stop_frequency": 1000000.0}Set 
+Read 
+{"averaging_cycles": 1, "averaging_time": 5e-05, "estimated_sweep_time": 0.051204895081477325, "linear_scale": true, "num_points": 512, "settling_cycles": 1, "settling_time": 5e-05, "start_frequency": 300000000.0, "stop_frequency": 1000000.0}Read 
+{"averaging_cycles": 1, "averaging_time": 5e-05, "estimated_sweep_time": 0.051204895081477325, "linear_scale": true, "num_points": 512, "settling_cycles": 1, "settling_time": 5e-05, "start_frequency": 300000000.0, "stop_frequency": 1000000.0}Set 
+Read 
+{"averaging_cycles": 1, "averaging_time": 5e-05, "estimated_sweep_time": 0.051204895081477325, "linear_scale": true, "num_points": 512, "settling_cycles": 1, "settling_time": 5e-05, "start_frequency": 300000000.0, "stop_frequency": 1000000.0}Read 
+{"averaging_cycles": 1, "averaging_time": 5e-05, "estimated_sweep_time": 0.051204895081477325, "linear_scale": true, "num_points": 512, "settling_cycles": 1, "settling_time": 5e-05, "start_frequency": 300000000.0, "stop_frequency": 1000000.0}Set 
+Read 
+{"averaging_cycles": 1, "averaging_time": 5e-05, "estimated_sweep_time": 0.051204895081477325, "linear_scale": true, "num_points": 512, "settling_cycles": 1, "settling_time": 5e-05, "start_frequency": 300000000.0, "stop_frequency": 1000000.0}Read 
+{"averaging_cycles": 1, "averaging_time": 5e-05, "estimated_sweep_time": 0.051204895081477325, "linear_scale": true, "num_points": 512, "settling_cycles": 1, "settling_time": 5e-05, "start_frequency": 300000000.0, "stop_frequency": 1000000.0}Set 
+Read 
+{"averaging_cycles": 1, "averaging_time": 5e-05, "estimated_sweep_time": 0.051204895081477325, "linear_scale": true, "num_points": 512, "settling_cycles": 1, "settling_time": 5e-05, "start_frequency": 300000000.0, "stop_frequency": 1000000.0}Read 
+{"averaging_cycles": 1, "averaging_time": 5e-05, "estimated_sweep_time": 0.051204895081477325, "linear_scale": true, "num_points": 512, "settling_cycles": 1, "settling_time": 5e-05, "start_frequency": 300000000.0, "stop_frequency": 1000000.0}Set 
+Read 
+{"averaging_cycles": 1, "averaging_time": 5e-05, "estimated_sweep_time": 0.051204895081477325, "linear_scale": true, "num_points": 512, "settling_cycles": 1, "settling_time": 5e-05, "start_frequency": 300000000.0, "stop_frequency": 1000000.0}Read 
+{"averaging_cycles": 1, "averaging_time": 5e-05, "estimated_sweep_time": 0.051204895081477325, "linear_scale": true, "num_points": 512, "settling_cycles": 1, "settling_time": 5e-05, "start_frequency": 300000000.0, "stop_frequency": 1000000.0}Set 
+Read 
+{"averaging_cycles": 1, "averaging_time": 5e-05, "estimated_sweep_time": 0.051204895081477325, "linear_scale": true, "num_points": 512, "settling_cycles": 1, "settling_time": 5e-05, "start_frequency": 300000000.0, "stop_frequency": 1000000.0}Read 
+{"averaging_cycles": 1, "averaging_time": 5e-05, "estimated_sweep_time": 0.051204895081477325, "linear_scale": true, "num_points": 512, "settling_cycles": 1, "settling_time": 5e-05, "start_frequency": 300000000.0, "stop_frequency": 1000000.0}Set 
+Read 
+{"averaging_cycles": 1, "averaging_time": 5e-05, "estimated_sweep_time": 0.051204895081477325, "linear_scale": true, "num_points": 512, "settling_cycles": 1, "settling_time": 5e-05, "start_frequency": 300000000.0, "stop_frequency": 1000000.0}Read 
+{"averaging_cycles": 1, "averaging_time": 5e-05, "estimated_sweep_time": 0.051204895081477325, "linear_scale": true, "num_points": 512, "settling_cycles": 1, "settling_time": 5e-05, "start_frequency": 300000000.0, "stop_frequency": 1000000.0}Set 
+Read 
+{"averaging_cycles": 1, "averaging_time": 5e-05, "estimated_sweep_time": 0.051204895081477325, "linear_scale": true, "num_points": 512, "settling_cycles": 1, "settling_time": 5e-05, "start_frequency": 300000000.0, "stop_frequency": 1000000.0}Read 
+{"averaging_cycles": 1, "averaging_time": 5e-05, "estimated_sweep_time": 0.051204895081477325, "linear_scale": true, "num_points": 512, "settling_cycles": 1, "settling_time": 5e-05, "start_frequency": 300000000.0, "stop_frequency": 1000000.0}Set 
+Read 
+{"averaging_cycles": 1, "averaging_time": 5e-05, "estimated_sweep_time": 0.051204895081477325, "linear_scale": true, "num_points": 512, "settling_cycles": 1, "settling_time": 5e-05, "start_frequency": 300000000.0, "stop_frequency": 1000000.0}Read 
+{"averaging_cycles": 1, "averaging_time": 5e-05, "estimated_sweep_time": 0.051204895081477325, "linear_scale": true, "num_points": 512, "settling_cycles": 1, "settling_time": 5e-05, "start_frequency": 300000000.0, "stop_frequency": 1000000.0}Set 
+Read 
+{"averaging_cycles": 1, "averaging_time": 5e-05, "estimated_sweep_time": 0.051204895081477325, "linear_scale": true, "num_points": 512, "settling_cycles": 1, "settling_time": 5e-05, "start_frequency": 300000000.0, "stop_frequency": 1000000.0}Read 
+{"averaging_cycles": 1, "averaging_time": 5e-05, "estimated_sweep_time": 0.051204895081477325, "linear_scale": true, "num_points": 512, "settling_cycles": 1, "settling_time": 5e-05, "start_frequency": 300000000.0, "stop_frequency": 1000000.0}Set 
+Read 
+{"averaging_cycles": 1, "averaging_time": 5e-05, "estimated_sweep_time": 0.051204895081477325, "linear_scale": true, "num_points": 512, "settling_cycles": 1, "settling_time": 5e-05, "start_frequency": 300000000.0, "stop_frequency": 1000000.0}Read 
+{"averaging_cycles": 1, "averaging_time": 5e-05, "estimated_sweep_time": 0.051204895081477325, "linear_scale": true, "num_points": 512, "settling_cycles": 1, "settling_time": 5e-05, "start_frequency": 300000000.0, "stop_frequency": 1000000.0}Set 
+Read 
+{"averaging_cycles": 1, "averaging_time": 5e-05, "estimated_sweep_time": 0.051204895081477325, "linear_scale": true, "num_points": 512, "settling_cycles": 1, "settling_time": 5e-05, "start_frequency": 300000000.0, "stop_frequency": 1000000.0}Read 
+{"averaging_cycles": 1, "averaging_time": 5e-05, "estimated_sweep_time": 0.051204895081477325, "linear_scale": true, "num_points": 512, "settling_cycles": 1, "settling_time": 5e-05, "start_frequency": 300000000.0, "stop_frequency": 1000000.0}Set 
+Read 
+{"averaging_cycles": 1, "averaging_time": 5e-05, "estimated_sweep_time": 0.051204895081477325, "linear_scale": true, "num_points": 512, "settling_cycles": 1, "settling_time": 5e-05, "start_frequency": 300000000.0, "stop_frequency": 1000000.0}Read 
+{"averaging_cycles": 1, "averaging_time": 5e-05, "estimated_sweep_time": 0.0515560598042882, "linear_scale": true, "num_points": 512, "settling_cycles": 1, "settling_time": 5e-05, "start_frequency": 500000.0, "stop_frequency": 1000000.0}Set 
+{"averaging_cycles": 1, "averaging_time": 5e-05, "estimated_sweep_time": 0.051211690777287974, "linear_scale": true, "num_points": 512, "settling_cycles": 1, "settling_time": 5e-05, "start_frequency": 100000000.0, "stop_frequency": 1000000.0}Set 
+{"averaging_cycles": 1, "averaging_time": 5e-05, "estimated_sweep_time": 0.051211690777287974, "linear_scale": true, "num_points": 512, "settling_cycles": 1, "settling_time": 5e-05, "start_frequency": 100000000.0, "stop_frequency": 1000000.0}Set 
+{"averaging_cycles": 1, "averaging_time": 5e-05, "estimated_sweep_time": 0.051211690777287974, "linear_scale": true, "num_points": 512, "settling_cycles": 1, "settling_time": 5e-05, "start_frequency": 100000000.0, "stop_frequency": 1000000.0}Set 
+{"averaging_cycles": 1, "averaging_time": 5e-05, "estimated_sweep_time": 0.051211690777287974, "linear_scale": true, "num_points": 512, "settling_cycles": 1, "settling_time": 5e-05, "start_frequency": 100000000.0, "stop_frequency": 1000000.0}Set 
+{"averaging_cycles": 1, "averaging_time": 5e-05, "estimated_sweep_time": 0.051211690777287974, "linear_scale": true, "num_points": 512, "settling_cycles": 1, "settling_time": 5e-05, "start_frequency": 100000000.0, "stop_frequency": 1000000.0}Set 
+{"averaging_cycles": 1, "averaging_time": 5e-05, "estimated_sweep_time": 0.051211690777287974, "linear_scale": true, "num_points": 512, "settling_cycles": 1, "settling_time": 5e-05, "start_frequency": 100000000.0, "stop_frequency": 1000000.0}Set 
+{"averaging_cycles": 1, "averaging_time": 5e-05, "estimated_sweep_time": 0.051211690777287974, "linear_scale": true, "num_points": 512, "settling_cycles": 1, "settling_time": 5e-05, "start_frequency": 100000000.0, "stop_frequency": 1000000.0}Set 
+{"averaging_cycles": 1, "averaging_time": 5e-05, "estimated_sweep_time": 0.051211690777287974, "linear_scale": true, "num_points": 512, "settling_cycles": 1, "settling_time": 5e-05, "start_frequency": 100000000.0, "stop_frequency": 1000000.0}Set 
+{"averaging_cycles": 1, "averaging_time": 5e-05, "estimated_sweep_time": 0.051211690777287974, "linear_scale": true, "num_points": 512, "settling_cycles": 1, "settling_time": 5e-05, "start_frequency": 100000000.0, "stop_frequency": 1000000.0}Set 
+Read 
+{"averaging_cycles": 1, "averaging_time": 5e-05, "estimated_sweep_time": 0.051211690777287974, "linear_scale": true, "num_points": 512, "settling_cycles": 1, "settling_time": 5e-05, "start_frequency": 100000000.0, "stop_frequency": 1000000.0}Read 
+{"averaging_cycles": 1, "averaging_time": 5e-05, "estimated_sweep_time": 0.051211690777287974, "linear_scale": true, "num_points": 512, "settling_cycles": 1, "settling_time": 5e-05, "start_frequency": 100000000.0, "stop_frequency": 1000000.0}Set 
+{"averaging_cycles": 1, "averaging_time": 5e-05, "estimated_sweep_time": 0.051211690777287974, "linear_scale": true, "num_points": 512, "settling_cycles": 1, "settling_time": 5e-05, "start_frequency": 100000000.0, "stop_frequency": 1000000.0}Set 
+{"averaging_cycles": 1, "averaging_time": 5e-05, "estimated_sweep_time": 0.051211690777287974, "linear_scale": true, "num_points": 512, "settling_cycles": 1, "settling_time": 5e-05, "start_frequency": 100000000.0, "stop_frequency": 1000000.0}Set 
+{"averaging_cycles": 1, "averaging_time": 5e-05, "estimated_sweep_time": 0.051211690777287974, "linear_scale": true, "num_points": 512, "settling_cycles": 1, "settling_time": 5e-05, "start_frequency": 100000000.0, "stop_frequency": 1000000.0}Set 
+{"averaging_cycles": 1, "averaging_time": 5e-05, "estimated_sweep_time": 0.051211690777287974, "linear_scale": true, "num_points": 512, "settling_cycles": 1, "settling_time": 5e-05, "start_frequency": 100000000.0, "stop_frequency": 1000000.0}Set 
+{"averaging_cycles": 1, "averaging_time": 5e-05, "estimated_sweep_time": 0.051211690777287974, "linear_scale": true, "num_points": 512, "settling_cycles": 1, "settling_time": 5e-05, "start_frequency": 100000000.0, "stop_frequency": 1000000.0}Set 
+{"averaging_cycles": 1, "averaging_time": 5e-05, "estimated_sweep_time": 0.051211690777287974, "linear_scale": true, "num_points": 512, "settling_cycles": 1, "settling_time": 5e-05, "start_frequency": 100000000.0, "stop_frequency": 1000000.0}Set 
+{"averaging_cycles": 1, "averaging_time": 5e-05, "estimated_sweep_time": 0.051211690777287974, "linear_scale": true, "num_points": 512, "settling_cycles": 1, "settling_time": 5e-05, "start_frequency": 100000000.0, "stop_frequency": 1000000.0}Set 
+Read 
+{"averaging_cycles": 1, "averaging_time": 5e-05, "estimated_sweep_time": 0.051211690777287974, "linear_scale": true, "num_points": 512, "settling_cycles": 1, "settling_time": 5e-05, "start_frequency": 100000000.0, "stop_frequency": 1000000.0}Read 
+Read 
+{"averaging_cycles": 1, "averaging_time": 5e-05, "estimated_sweep_time": 0.051211690777287974, "linear_scale": true, "num_points": 512, "settling_cycles": 1, "settling_time": 5e-05, "start_frequency": 100000000.0, "stop_frequency": 1000000.0}Read 
+Read 
+{"averaging_cycles": 1, "averaging_time": 5e-05, "estimated_sweep_time": 0.051211690777287974, "linear_scale": true, "num_points": 512, "settling_cycles": 1, "settling_time": 5e-05, "start_frequency": 100000000.0, "stop_frequency": 1000000.0}Read 
+Read 
+{"averaging_cycles": 1, "averaging_time": 5e-05, "estimated_sweep_time": 0.051211690777287974, "linear_scale": true, "num_points": 512, "settling_cycles": 1, "settling_time": 5e-05, "start_frequency": 100000000.0, "stop_frequency": 1000000.0}Read 
+Read 
+{"averaging_cycles": 1, "averaging_time": 5e-05, "estimated_sweep_time": 0.051211690777287974, "linear_scale": true, "num_points": 512, "settling_cycles": 1, "settling_time": 5e-05, "start_frequency": 100000000.0, "stop_frequency": 1000000.0}Read 
+Read 
+{"averaging_cycles": 1, "averaging_time": 5e-05, "estimated_sweep_time": 0.051211690777287974, "linear_scale": true, "num_points": 512, "settling_cycles": 1, "settling_time": 5e-05, "start_frequency": 100000000.0, "stop_frequency": 1000000.0}Read 
+Read 
+{"averaging_cycles": 1, "averaging_time": 5e-05, "estimated_sweep_time": 0.051211690777287974, "linear_scale": true, "num_points": 512, "settling_cycles": 1, "settling_time": 5e-05, "start_frequency": 100000000.0, "stop_frequency": 1000000.0}Read 
+Read 
+{"averaging_cycles": 1, "averaging_time": 5e-05, "estimated_sweep_time": 0.051211690777287974, "linear_scale": true, "num_points": 512, "settling_cycles": 1, "settling_time": 5e-05, "start_frequency": 100000000.0, "stop_frequency": 1000000.0}Read 
+Read 
+{"averaging_cycles": 1, "averaging_time": 5e-05, "estimated_sweep_time": 0.051211690777287974, "linear_scale": true, "num_points": 512, "settling_cycles": 1, "settling_time": 5e-05, "start_frequency": 100000000.0, "stop_frequency": 1000000.0}Read 
+Read 
+{"averaging_cycles": 1, "averaging_time": 5e-05, "estimated_sweep_time": 0.051211690777287974, "linear_scale": true, "num_points": 512, "settling_cycles": 1, "settling_time": 5e-05, "start_frequency": 100000000.0, "stop_frequency": 1000000.0}Read 
+Read 
+{"averaging_cycles": 1, "averaging_time": 5e-05, "estimated_sweep_time": 0.051211690777287974, "linear_scale": true, "num_points": 512, "settling_cycles": 1, "settling_time": 5e-05, "start_frequency": 100000000.0, "stop_frequency": 1000000.0}Read 
+Read 
+{"averaging_cycles": 1, "averaging_time": 5e-05, "estimated_sweep_time": 0.051211690777287974, "linear_scale": true, "num_points": 512, "settling_cycles": 1, "settling_time": 5e-05, "start_frequency": 100000000.0, "stop_frequency": 1000000.0}Read 
+Read 
+{"averaging_cycles": 1, "averaging_time": 5e-05, "estimated_sweep_time": 0.051211690777287974, "linear_scale": true, "num_points": 512, "settling_cycles": 1, "settling_time": 5e-05, "start_frequency": 100000000.0, "stop_frequency": 1000000.0}Read 
+Read 
+{"averaging_cycles": 1, "averaging_time": 5e-05, "estimated_sweep_time": 0.051211690777287974, "linear_scale": true, "num_points": 512, "settling_cycles": 1, "settling_time": 5e-05, "start_frequency": 100000000.0, "stop_frequency": 1000000.0}Read 
+Read 
+{"averaging_cycles": 1, "averaging_time": 5e-05, "estimated_sweep_time": 0.051211690777287974, "linear_scale": true, "num_points": 512, "settling_cycles": 1, "settling_time": 5e-05, "start_frequency": 100000000.0, "stop_frequency": 1000000.0}Read 
+Read 
+{"averaging_cycles": 1, "averaging_time": 5e-05, "estimated_sweep_time": 0.051211690777287974, "linear_scale": true, "num_points": 512, "settling_cycles": 1, "settling_time": 5e-05, "start_frequency": 100000000.0, "stop_frequency": 1000000.0}Read 
+{"averaging_cycles": 1, "averaging_time": 5e-05, "estimated_sweep_time": 0.051211690777287974, "linear_scale": true, "num_points": 512, "settling_cycles": 1, "settling_time": 5e-05, "start_frequency": 100000000.0, "stop_frequency": 1000000.0}Set 
+{"averaging_cycles": 1, "averaging_time": 5e-05, "estimated_sweep_time": 0.051211690777287974, "linear_scale": true, "num_points": 512, "settling_cycles": 1, "settling_time": 5e-05, "start_frequency": 100000000.0, "stop_frequency": 1000000.0}Set 
+{"averaging_cycles": 1, "averaging_time": 5e-05, "estimated_sweep_time": 0.051211690777287974, "linear_scale": true, "num_points": 512, "settling_cycles": 1, "settling_time": 5e-05, "start_frequency": 100000000.0, "stop_frequency": 1000000.0}Set 
+{"averaging_cycles": 1, "averaging_time": 5e-05, "estimated_sweep_time": 0.051211690777287974, "linear_scale": true, "num_points": 512, "settling_cycles": 1, "settling_time": 5e-05, "start_frequency": 100000000.0, "stop_frequency": 1000000.0}Set 
+{"averaging_cycles": 1, "averaging_time": 5e-05, "estimated_sweep_time": 0.051211690777287974, "linear_scale": true, "num_points": 512, "settling_cycles": 1, "settling_time": 5e-05, "start_frequency": 100000000.0, "stop_frequency": 1000000.0}Set 
+{"averaging_cycles": 1, "averaging_time": 5e-05, "estimated_sweep_time": 0.051211690777287974, "linear_scale": true, "num_points": 512, "settling_cycles": 1, "settling_time": 5e-05, "start_frequency": 100000000.0, "stop_frequency": 1000000.0}Set 
+{"averaging_cycles": 1, "averaging_time": 5e-05, "estimated_sweep_time": 0.051211690777287974, "linear_scale": true, "num_points": 512, "settling_cycles": 1, "settling_time": 5e-05, "start_frequency": 100000000.0, "stop_frequency": 1000000.0}Set 
+{"averaging_cycles": 1, "averaging_time": 5e-05, "estimated_sweep_time": 0.051211690777287974, "linear_scale": true, "num_points": 512, "settling_cycles": 1, "settling_time": 5e-05, "start_frequency": 100000000.0, "stop_frequency": 1000000.0}Set 
+Read 
+{"averaging_cycles": 1, "averaging_time": 5e-05, "estimated_sweep_time": 0.051211690777287974, "linear_scale": true, "num_points": 512, "settling_cycles": 1, "settling_time": 5e-05, "start_frequency": 100000000.0, "stop_frequency": 1000000.0}Read 
+Read 
+{"averaging_cycles": 1, "averaging_time": 5e-05, "estimated_sweep_time": 0.051211690777287974, "linear_scale": true, "num_points": 512, "settling_cycles": 1, "settling_time": 5e-05, "start_frequency": 100000000.0, "stop_frequency": 1000000.0}Read 
+Read 
+{"averaging_cycles": 1, "averaging_time": 5e-05, "estimated_sweep_time": 0.051211690777287974, "linear_scale": true, "num_points": 512, "settling_cycles": 1, "settling_time": 5e-05, "start_frequency": 100000000.0, "stop_frequency": 1000000.0}Read 
+Read 
+{"averaging_cycles": 1, "averaging_time": 5e-05, "estimated_sweep_time": 0.051211690777287974, "linear_scale": true, "num_points": 512, "settling_cycles": 1, "settling_time": 5e-05, "start_frequency": 100000000.0, "stop_frequency": 1000000.0}Read 
+Read 
+{"averaging_cycles": 1, "averaging_time": 5e-05, "estimated_sweep_time": 0.051211690777287974, "linear_scale": true, "num_points": 512, "settling_cycles": 1, "settling_time": 5e-05, "start_frequency": 100000000.0, "stop_frequency": 1000000.0}Read 
+Read 
+{"averaging_cycles": 1, "averaging_time": 5e-05, "estimated_sweep_time": 0.051211690777287974, "linear_scale": true, "num_points": 512, "settling_cycles": 1, "settling_time": 5e-05, "start_frequency": 100000000.0, "stop_frequency": 1000000.0}Read 
+Read 
+{"averaging_cycles": 1, "averaging_time": 5e-05, "estimated_sweep_time": 0.051211690777287974, "linear_scale": true, "num_points": 512, "settling_cycles": 1, "settling_time": 5e-05, "start_frequency": 100000000.0, "stop_frequency": 1000000.0}Read 
+Read 
+{"averaging_cycles": 1, "averaging_time": 5e-05, "estimated_sweep_time": 0.051211690777287974, "linear_scale": true, "num_points": 512, "settling_cycles": 1, "settling_time": 5e-05, "start_frequency": 100000000.0, "stop_frequency": 1000000.0}Read 
+Read 
+{"averaging_cycles": 1, "averaging_time": 5e-05, "estimated_sweep_time": 0.051211690777287974, "linear_scale": true, "num_points": 512, "settling_cycles": 1, "settling_time": 5e-05, "start_frequency": 100000000.0, "stop_frequency": 1000000.0}Read 
+Read 
+{"averaging_cycles": 1, "averaging_time": 5e-05, "estimated_sweep_time": 0.051211690777287974, "linear_scale": true, "num_points": 512, "settling_cycles": 1, "settling_time": 5e-05, "start_frequency": 100000000.0, "stop_frequency": 1000000.0}Read 
+Read 
+{"averaging_cycles": 1, "averaging_time": 5e-05, "estimated_sweep_time": 0.051211690777287974, "linear_scale": true, "num_points": 512, "settling_cycles": 1, "settling_time": 5e-05, "start_frequency": 100000000.0, "stop_frequency": 1000000.0}Read 
+Read 
+{"averaging_cycles": 1, "averaging_time": 5e-05, "estimated_sweep_time": 0.051211690777287974, "linear_scale": true, "num_points": 512, "settling_cycles": 1, "settling_time": 5e-05, "start_frequency": 100000000.0, "stop_frequency": 1000000.0}Read 
+Read 
+{"averaging_cycles": 1, "averaging_time": 5e-05, "estimated_sweep_time": 0.051211690777287974, "linear_scale": true, "num_points": 512, "settling_cycles": 1, "settling_time": 5e-05, "start_frequency": 100000000.0, "stop_frequency": 1000000.0}Read 
+Read 
+{"averaging_cycles": 1, "averaging_time": 5e-05, "estimated_sweep_time": 0.051211690777287974, "linear_scale": true, "num_points": 512, "settling_cycles": 1, "settling_time": 5e-05, "start_frequency": 100000000.0, "stop_frequency": 1000000.0}Read 
+Read 
+{"averaging_cycles": 1, "averaging_time": 5e-05, "estimated_sweep_time": 0.051211690777287974, "linear_scale": true, "num_points": 512, "settling_cycles": 1, "settling_time": 5e-05, "start_frequency": 100000000.0, "stop_frequency": 1000000.0}Read 
+Read 
+{"averaging_cycles": 1, "averaging_time": 5e-05, "estimated_sweep_time": 0.051211690777287974, "linear_scale": true, "num_points": 512, "settling_cycles": 1, "settling_time": 5e-05, "start_frequency": 100000000.0, "stop_frequency": 1000000.0}Read 
+["waveformgenerator", "oscilloscope", "awg", "oscilloscope"]Start 
+["waveformgenerator", "oscilloscope", "awg", "oscilloscope"]Start 
+["waveformgenerator", "oscilloscope", "awg", "oscilloscope"]Start 
+["waveformgenerator", "oscilloscope", "awg", "oscilloscope"]Start 
+["waveformgenerator", "oscilloscope", "awg", "oscilloscope"]Start 
+["awg", "oscilloscope", "awg", "oscilloscope"]Start 
+["awg", "oscilloscope", "awg", "oscilloscope"]Start 
