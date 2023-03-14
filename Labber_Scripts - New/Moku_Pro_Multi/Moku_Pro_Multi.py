@@ -2,7 +2,7 @@
 """
 Created on Mon Nov  7 15:44:28 2022
 
-@author: Triton
+@author: Anirvinya Samanyu Tirumala
 """
 
 from moku.instruments import (MultiInstrument, Oscilloscope, WaveformGenerator,
@@ -278,11 +278,14 @@ class Driver(LabberDriver):
             elif main_out == 'R' and aux_out == 'Y or Theta':
                 aux_out = 'Theta'
             self.Instrument[slot-1].set_outputs(main=main_out, main_offset=main_off, aux = aux_out, aux_offset = aux_off)
+            
             gain = self.getValue('LIA Output - Gain - ' + str(slot))
-            try:
-                self.Instrument[slot-1].set_gain(main = gain, aux = gain)
-            except:
-                pass
+            self.Instrument[slot-1].set_gain(main = gain, aux = gain)
+            
+            self.Instrument[slot-1].set_monitor(1, 'MainOutput')
+            self.Instrument[slot-1].set_monitor(2, 'AuxOutput')
+
+            
         if name.startswith('LIA Time') or name == 'init':
             timebase = self.getValue('LIA Timespan - ' + str(slot))
             self.Instrument[slot-1].set_timebase(-timebase, timebase)
